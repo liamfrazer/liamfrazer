@@ -4,36 +4,15 @@
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
 
-## Currently a Senior AI Conversation Analyst, future software engineer.
-## Learning & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
+## Senior AI Conversation Analyst, Future Full Stack Software Engineer.
+# Currently studying & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
 
 <br />
 
-- I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
-- I'm commited to learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
-- 2022 Goals: Dive further into the journey of becoming a full stack developer.
-- Five Year Goal: Full stack software engineer, working with Blockchain technology, Smart Contracts, & maybe even the Metaverse.
-
-<br />
-
-### Current Studying:
-
-<img align="left" alt="The Odin Project" width="26px" src="https://avatars.githubusercontent.com/u/4441966?s=200&v=4" />[The Odin Project][theodinproject]
-<img align="left" alt="#100Devs" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />[#100devs][100devs]
-
-<br />
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-<br />
-
-### Completed Courses:
-
-- <img align="left" alt="Learning How To Learn" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/81j+JH7WshL.jpg" />[Learning How To Learn][lhtl]
+- 🤖 I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
+- 📚 I'm commited to learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
+- 🥅 2022 Goals: Dive further into the journey of becoming a full stack developer.
+- 📝 Five Year Goal: Full stack software engineer, working with Blockchain technology, Smart Contracts, & maybe even the Metaverse.
 
 <br />
 
@@ -49,13 +28,32 @@
 [<img align="left" alt="Windows 11" width="26px" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo.png" />][windows11]
 [<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
 
-
 <br />
 
 ### Future Languages and Tools:
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" />][solidity]
+[<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/2560px-Logo_Blender.svg.png" />][blender]
+
+### Current Studying:
+
+- [The Odin Project][theodinproject]
+- [#100devs][100devs]
+
+<br />
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+
+<br />
+
+### Completed Courses:
+
+- [Learning How To Learn][lhtl]
 
 <br />
 <br />
@@ -80,3 +78,4 @@
 [ubuntu]: https://ubuntu.com/
 [windows11]: https://www.microsoft.com/en-gb/windows/windows-11?r=1/
 [macos]: https://www.apple.com/uk/mac/
+[blender]: https://www.blender.org/
