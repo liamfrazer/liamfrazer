@@ -5,14 +5,14 @@
 
 
 ## Senior AI Conversation Analyst > Future Full Stack Software Engineer.
-### Currently studying & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
+### Currently studying & developing my way through the rise of Web 3.0, the impact of Blockchains & the disruption of the Metaverse.
 
 <br />
 
 - 🤖 I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
 - 📚 Learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
 - 🥅 2022 Goal: Dive further into the journey of becoming a Full Stack Developer.
-- 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain technology, Smart Contracts, & the Metaverse.
+- 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain Technology, Smart Contracts & the Metaverse.
 
 ---
 
