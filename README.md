@@ -30,9 +30,9 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 <br />
----
 
-### Current Languages and Tools:
+
+### Known Languages and Tools:
 
 [<img align="left" alt="IBM Watson" width="26px" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2018/04/watson.jpg" />][ibmwatson]
 [<img align="left" alt="LivePerson" width="26px" src="https://assets-global.website-files.com/5fd12c44f4b20161bb3602da/5fd12c454f11363b6cc81c5b_White.svg" />][liveperson]
@@ -45,8 +45,6 @@
 [<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
 
 <br />
-
----
 
 ### Future Languages and Tools:
 
@@ -61,9 +59,6 @@
 ### Completed Courses:
 
 - [Learning How To Learn][lhtl]
-
-<br />
-<br />
 
 ---
 [vscode]: https://code.visualstudio.com/
