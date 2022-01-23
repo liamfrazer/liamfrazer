@@ -4,7 +4,8 @@
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
 
-## Currently a Senior AI Conversation Analyst, looking towards developing my way through the rise of Web 3.0, Blockchain technology & the disruption of the Metaverse.
+## Currently a Senior AI Conversation Analyst, future software engineer.
+## Learning & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
 
 <br />
 
@@ -17,8 +18,8 @@
 
 ### Current Studying:
 
-- <img align="left" alt="The Odin Project" width="26px" src="https://avatars.githubusercontent.com/u/4441966?s=200&v=4" />[The Odin Project][theodinproject]
-[<img align="left" alt="#100Devs" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />][#100devs][100devs]
+<img align="left" alt="The Odin Project" width="26px" src="https://avatars.githubusercontent.com/u/4441966?s=200&v=4" />[The Odin Project][theodinproject]
+<img align="left" alt="#100Devs" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />[#100devs][100devs]
 
 <br />
 
