@@ -4,8 +4,8 @@
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
 
-# Senior AI Conversation Analyst > Future Full Stack Software Engineer.
-## Currently studying & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
+## Senior AI Conversation Analyst > Future Full Stack Software Engineer.
+### Currently studying & developing my way through the rise of Web 3.0, Blockchains & the disruption of the Metaverse.
 
 <br />
 
@@ -28,6 +28,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 <br />
+<br />
 
 ### Known Languages and Tools:
 
@@ -41,6 +42,7 @@
 [<img align="left" alt="Windows 11" width="26px" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo.png" />][windows11]
 [<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
 
+<br />
 <br />
 
 ### Future Languages and Tools:
@@ -56,6 +58,8 @@
 ### Completed Courses:
 
 - [Learning How To Learn][lhtl]
+
+<br />
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
