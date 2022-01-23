@@ -14,7 +14,7 @@
 - 🥅 2022 Goal: Dive further into the journey of becoming a Full Stack Developer.
 - 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain technology, Smart Contracts, & maybe even the Metaverse.
 
-<br />
+---
 
 ### Current Studying:
 
@@ -30,6 +30,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 <br />
+---
 
 ### Current Languages and Tools:
 
@@ -45,6 +46,8 @@
 
 <br />
 
+---
+
 ### Future Languages and Tools:
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
@@ -52,6 +55,8 @@
 [<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/2560px-Logo_Blender.svg.png" />][blender]
 
 <br />
+
+---
 
 ### Completed Courses:
 
