@@ -1,12 +1,13 @@
 ### Hey, I'm Liam - aka frz.
 
-[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
+[!(https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
+[!(https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
 ## I'm a Senior AI Conversation Analyst, just starting on the path to becoming a Full Stack Developer, looking towards developing my way through the rise of Web 3.0, Blockchain technology & the disruption of the Metaverse.
 
 <br />
 
-- I've been working with IBM Watson AI solutions for just under 5 years, for a top UK bank.
+- I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
 - I want to learn as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
 - 2022 Goals: Dive further into the journey of becoming a full stack developer.
 - Five Year Goal: Full stack software engineer, working with Blockchain technology, Smart Contracts, & maybe even the Metaverse.
@@ -14,9 +15,13 @@
 
 <br />
 
-### Current Learning Path:
+### Current Courses:
 
 [<img align="left" alt="The Odin Project" width="26px" src="https://avatars.githubusercontent.com/u/4441966?s=200&v=4" />][https://theodinproject.com]
+
+<br />
+
+### Completed Courses:
 
 <br />
 
@@ -40,6 +45,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+
+### Current Languages and Tools:
+
+<br />
 <br />
 
 ---
+[]
