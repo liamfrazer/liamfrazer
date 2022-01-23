@@ -18,7 +18,7 @@
 ### Current Studying:
 
 - <img align="left" alt="The Odin Project" width="26px" src="https://avatars.githubusercontent.com/u/4441966?s=200&v=4" />[The Odin Project][theodinproject]
-- <img align="left" alt="#100Devs" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />[#100devs][100devs]
+[<img align="left" alt="#100Devs" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />][#100devs][100devs]
 
 <br />
 
@@ -32,7 +32,7 @@
 
 ### Completed Courses:
 
-- <img align="left" alt="Learning How To Learn" width="26px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ed949a09-b742-4684-9b3d-8af1978e1ff0-profile_image-70x70.png" />[Learning How To Learn][lhtl]
+- <img align="left" alt="Learning How To Learn" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/81j+JH7WshL.jpg" />[Learning How To Learn][lhtl]
 
 <br />
 
