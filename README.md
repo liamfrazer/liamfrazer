@@ -4,11 +4,13 @@
 
 ## I'm a Senior AI Conversation Analyst, just starting on the path to becoming a Full Stack Developer, looking towards the future of Web 3.0.
 
-- � I've been working with IBM Watson AI solutions for just under 5 years, for a top UK bank, focused on the future of supporting customers through new technology.
-- � I want to learn as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
-- � 2021 Goals: Dive further into the journey of becoming a full stack developer.
-- � Five Year Goals: Becoming a fully developed junior software engineer, working with Blockchain technology, Smart contracts, Dapps & maybe even the Metaverse.
-- ⚡ Fun fact: I once flew a helicopter!
+<br />
+
+- I've been working with IBM Watson AI solutions for just under 5 years, for a top UK bank, focused on the future of supporting customers through new technology.
+- I want to learn as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
+- 2021 Goals: Dive further into the journey of becoming a full stack developer.
+- Five Year Goals: Becoming a fully developed junior software engineer, working with Blockchain technology, Smart contracts, Dapps & maybe even the Metaverse.
+- Fun fact: I once flew a helicopter!
 
 <br />
 
@@ -18,7 +20,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
