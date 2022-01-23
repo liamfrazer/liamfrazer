@@ -44,7 +44,6 @@
 
 - [Learning How To Learn][lhtl]
 
-<br />
 
 ### Known Languages and Tools:
 
