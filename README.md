@@ -30,21 +30,6 @@
 <br />
 <br />
 
-### Known Languages and Tools:
-
-[<img align="left" alt="IBM Watson" width="26px" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2018/04/watson.jpg" />][ibmwatson]
-[<img align="left" alt="LivePerson" width="26px" src="https://assets-global.website-files.com/5fd12c44f4b20161bb3602da/5fd12c454f11363b6cc81c5b_White.svg" />][liveperson]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" />][ubuntu]
-[<img align="left" alt="Windows 11" width="26px" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo.png" />][windows11]
-[<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
-
-<br />
-<br />
-
 ### Future Languages and Tools:
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
@@ -58,6 +43,20 @@
 ### Completed Courses:
 
 - [Learning How To Learn][lhtl]
+
+<br />
+
+### Known Languages and Tools:
+
+[<img align="left" alt="IBM Watson" width="26px" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2018/04/watson.jpg" />][ibmwatson]
+[<img align="left" alt="LivePerson" width="26px" src="https://assets-global.website-files.com/5fd12c44f4b20161bb3602da/5fd12c454f11363b6cc81c5b_White.svg" />][liveperson]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" />][ubuntu]
+[<img align="left" alt="Windows 11" width="26px" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo.png" />][windows11]
+[<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
 
 <br />
 
