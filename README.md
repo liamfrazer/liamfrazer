@@ -12,7 +12,7 @@
 - 🤖 I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
 - 📚 Learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
 - 🥅 2022 Goal: Dive further into the journey of becoming a Full Stack Developer.
-- 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain technology, Smart Contracts, & maybe even the Metaverse.
+- 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain technology, Smart Contracts, & the Metaverse.
 
 ---
 
@@ -27,7 +27,6 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
-<br />
 <br />
 
 ### Future Languages and Tools:
