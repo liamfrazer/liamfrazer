@@ -3,11 +3,10 @@
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
----
 
 ## Senior AI Conversation Analyst > Future Full Stack Software Engineer
 
-<br />
+---
 
 - 🏦 Employed by a top UK Bank for 9 years, started as an Apprentice, building my way up to a Senior AI Conversation Analyst.
 - 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
@@ -26,9 +25,6 @@
 
 <br />
 
-- [The Odin Project][theodinproject]
-- [#100Devs][100devs]
-
 ### Future Languages and Tools:
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
@@ -38,13 +34,6 @@
 [<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />][blender]
 
 <br />
-
----
-
-### Completed Courses:
-
-- [Learning How To Learn][lhtl]
-
 
 ### Known Languages and Tools:
 
@@ -59,6 +48,19 @@
 [<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macos]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 [<img align="left" alt="Rasberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][pi]
+
+<br />
+
+---
+
+### Current Courses:
+
+- [The Odin Project][theodinproject]
+- [#100Devs][100devs]
+
+### Completed Courses:
+
+- [Learning How To Learn][lhtl]
 
 <br />
 
