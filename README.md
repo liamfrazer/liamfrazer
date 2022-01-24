@@ -1,9 +1,7 @@
-## Current Senior AI Conversation Analyst 🚀 Future Full Stack Software Engineer
+## Current Senior AI Conversation Analyst  🚀  Future Full Stack Software Engineer
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-
----
 
 - 🏦 Employed by a top UK Bank for 9 years, started as an Apprentice, building my way up to a Senior AI Conversation Analyst.
 - 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
