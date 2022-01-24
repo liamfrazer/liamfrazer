@@ -5,7 +5,6 @@
 
 
 ## Senior AI Conversation Analyst > Future Full Stack Software Engineer
-### Currently studying & developing my way through the rise of Web 3.0, the impact of Blockchains & the disruption of the Metaverse.
 
 <br />
 
@@ -14,18 +13,18 @@
 - 🖥 Love tinkering with Computers since an early age, but never got round to programming. 
 - 📚 Currently learning as much as possible about: HTML | CSS | Javascript | Node.js | React and eventually Solidity.
 - 🥅 2022 Goal: Progressing through my journey of becoming a Full Stack Developer.
-- 📝 2027 Goal: Software Engineer specialising in Full Stack, Blockchains, Smart Contracts & maybe the Metaverse.
+- 📝 2027 Goal: Software Engineer specialising in Full Stack, Blockchains, Smart Contracts & maybe even the Metaverse.
 
 ---
 
 ### Currently Studying:
 
-- [The Odin Project][theodinproject]
-- [#100Devs][100devs]
-
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+
+- [The Odin Project][theodinproject]
+- [#100Devs][100devs]
 
 <br />
 
