@@ -60,9 +60,9 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 [<img align="left" alt="Rasberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][pi]
 
----
-
 <br />
+
+---
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
