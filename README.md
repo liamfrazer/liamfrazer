@@ -19,7 +19,7 @@
 ### Currently Studying:
 
 - [The Odin Project][theodinproject]
-- [#100devs][100devs]
+- [#100Devs by Leon Noel][100devs]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -44,7 +44,7 @@
 
 ### Completed Courses:
 
-- [Learning How To Learn][lhtl]
+- [Learning How To Learn by Barbara Oakley & Dr. Terrence Sejnowski][lhtl]
 
 
 ### Known Languages and Tools:
