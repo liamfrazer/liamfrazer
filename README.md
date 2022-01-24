@@ -9,9 +9,10 @@
 
 <br />
 
-- 🤖 I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
-- 🖥 I've been tinkering with Computers since an early age, hosted many gaming servers, but never got round to programming.
-- 📚 Learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
+- 🏦 I've worked for a top UK Bank for 9 years, starting out as an Apprentice, building my way up to a Senior AI Conversation Analyst.
+- 🤖 I've been working with IBM Watson AI solutions for just under 5 years.
+- 🖥 I love tinkering with Computers since an early age, but never got round to programming.
+- 📚 Currently learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
 - 🥅 2022 Goal: Diving further into the journey of becoming a Full Stack Developer.
 - 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain Technology, Smart Contracts & the Metaverse.
 
