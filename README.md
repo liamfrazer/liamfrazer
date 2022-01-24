@@ -9,9 +9,10 @@
 
 <br />
 
+- 🖥 Been tinkering with Computers since an early age, hosted many gaming servers, but never got round to programming.
 - 🤖 I've been working with IBM Watson AI chatbot solutions for just under 5 years, for a top UK bank.
 - 📚 Learning as much as possible about: HTML | CSS | Javascript | Node.js | React | and future languages such as Solidity.
-- 🥅 2022 Goal: Dive further into the journey of becoming a Full Stack Developer.
+- 🥅 2022 Goal: Diving further into the journey of becoming a Full Stack Developer.
 - 📝 2027 Goal: Full Stack Software Engineer, working with Blockchain Technology, Smart Contracts & the Metaverse.
 
 ---
@@ -31,12 +32,9 @@
 
 ### Future Languages and Tools:
 
-<!-- Fix Mongodb image -->
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb] 
-<!-- Fix Solidity image -->
-[<img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" />][solidity]
-<!-- Fix Blender image -->
-[<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/2560px-Logo_Blender.svg.png" />][blender]
+[<img align="left" alt="MongoDB" width="26px" src="https://banner2.cleanpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />][mongodb] 
+[<img align="left" alt="Solidity" width="26px" src="https://image.pngaaa.com/291/4112291-middle.png" />][solidity]
+[<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />][blender]
 
 <br />
 
@@ -44,26 +42,23 @@
 
 ### Completed Courses:
 
-- [Learning How To Learn by Barbara Oakley & Dr. Terrence Sejnowski][lhtl]
+- [Learning How To Learn][lhtl]
 
 
 ### Known Languages and Tools:
 
-<!-- Fix IBM Watson image -->
-[<img align="left" alt="IBM Watson" width="26px" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2018/04/watson.jpg" />][ibmwatson]
-<!-- Fix LivePerson Image -->
-[<img align="left" alt="LivePerson" width="26px" src="https://assets-global.website-files.com/5fd12c44f4b20161bb3602da/5fd12c454f11363b6cc81c5b_White.svg" />][liveperson]
+[<img align="left" alt="IBM Watson" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
+[<img align="left" alt="LivePerson" width="26px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
+[<img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.70390a6f88.svg" />][jira]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-<!-- Try and improve GIT image -->
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-<!-- Try and improve GitHub image -->
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-<!-- Fix Ubuntu image -->
-[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" />][ubuntu]
-<!-- Fix Windows image -->
-[<img align="left" alt="Windows 11" width="26px" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo.png" />][windows11]
-[<img align="left" alt="MacOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" />][macos]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+[<img align="left" alt="Webmin" width="26px" src="https://seeklogo.com/images/W/webmin-logo-6DDDF5ADEC-seeklogo.com.png" />][webmin]
+[<img align="left" alt="Windows 11" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][windows11]
+[<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macos]
+[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macos]
+[<img align="left" alt="Rasberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][pi]
 
 <br />
 
@@ -82,8 +77,10 @@
 [lhtl]: https://www.coursera.org/learn/learning-how-to-learn/
 [ibmwatson]: https://www.ibm.com/uk-en/watson/
 [liveperson]: https://www.liveperson.com/
-[terminal]: https://blog.codaisseur.com/what-is-a-coding-terminal/#:~:text=In%20short%2C%20the%20terminal%20allows,have%20to%20go%20clicking%20around./
 [ubuntu]: https://ubuntu.com/
 [windows11]: https://www.microsoft.com/en-gb/windows/windows-11?r=1/
 [macos]: https://www.apple.com/uk/mac/
 [blender]: https://www.blender.org/
+[pi]: https://www.raspberrypi.org/
+[jira]: https://www.atlassian.com/software/jira/
+[webmin]: https://webmin.com/
