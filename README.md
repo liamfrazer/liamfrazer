@@ -1,8 +1,7 @@
+## Current Senior AI Conversation Analyst 🚀 Future Full Stack Software Engineer
+
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-
-
-## Current Senior AI Conversation Analyst 🚀 Future Full Stack Software Engineer
 
 ---
 
@@ -59,8 +58,6 @@
 ### Completed Courses:
 
 - [Learning How To Learn][lhtl]
-
----
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
