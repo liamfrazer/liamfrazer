@@ -37,6 +37,7 @@
 
 [<img align="left" alt="IBM Watson" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
 [<img align="left" alt="LivePerson" width="26px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
+[<img align="left" alt="ServiceNow" width="26px" src="https://symbols.getvecta.com/stencil_95/73_servicenow-icon.29d1cdcfca.svg" />][servicenow]
 [<img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.70390a6f88.svg" />][jira]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][git]
@@ -86,3 +87,4 @@
 [next.js]: https://nextjs.org/
 [mta]: https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770/
 [json]: https://www.json.org/json-en.html/
+[servicenow]: https://servicenow.com/
