@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
-- 🏦 Employed by a top UK Bank for 9 years, building from an apprenticeship, all the way up to a Senior AI Conversation Analyst.
+- 🏦 Employed by a top UK Bank for 9 years, building up from an apprenticeship, all the way to a Senior AI Conversation Analyst.
 - 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
 - 🖥 Love tinkering with Computers since an early age, but never got round to programming. 
 - 📚 Currently learning as much as possible about: HTML | CSS | Javascript | Node.js | React and eventually Solidity.
@@ -54,7 +54,7 @@
 ### Current Courses:
 
 - [The Odin Project][theodinproject]
-- [#100Devs][100devs]
+- [#100Devs Cohort][100devs]
 
 ### Completed Courses:
 
