@@ -42,7 +42,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-[<img align="left" alt="Webmin" width="26px" src="https://seeklogo.com/images/W/webmin-logo-6DDDF5ADEC-seeklogo.com.png" />][webmin]
 [<img align="left" alt="Windows 11" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][windows11]
 [<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macos]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
@@ -83,7 +82,6 @@
 [blender]: https://www.blender.org/
 [pi]: https://www.raspberrypi.org/
 [jira]: https://www.atlassian.com/software/jira/
-[webmin]: https://webmin.com/
 [next.js]: https://nextjs.org/
 [mta]: https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770/
 [json]: https://www.json.org/json-en.html/
