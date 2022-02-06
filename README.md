@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+[![Website](https://img.shields.io/website?label=adaptoken&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 
 - 🏦 Employed by a top UK Bank for 9 years, building up from an apprenticeship, all the way to a Senior AI Conversation Analyst.
 - 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
