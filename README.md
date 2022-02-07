@@ -4,12 +4,12 @@
 [![Website](https://img.shields.io/website?label=adaptoken&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 
-- 🏦 Employed by a top UK Bank for 9 years, building up from an apprenticeship, all the way to a Senior AI Conversation Analyst.
+- 🏦 Employed by a top UK Bank for 9 years, starting as an apprentice in 2012, now a Senior AI Conversation Analyst.
 - 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
-- 🖥 Love tinkering with Computers since an early age, but never got round to programming.
-- 📚 Currently learning as much as possible about: HTML | CSS | Javascript | Node.js | React and eventually Solidity.
-- 🥅 2022 Goal: Progressing through my journey of becoming a Full Stack Developer.
-- 📝 2027 Goal: Software Engineer specialising in Full Stack, Blockchains, Smart Contracts & maybe even the Metaverse.
+- 📚 Currently teaching myself as much as possible about: HTML | CSS | Javascript.
+- 🧳 Looking forward towards moving into Node.js | React | Next.js | Solidity next.
+- 🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
+- 📝 2027 Goal: Software Engineer specialising in Blockchains, Smart Contracts & maybe even the Metaverse.
 
 ---
 
@@ -56,6 +56,7 @@
 - [The Odin Project][theodinproject]
 - [#100Devs Cohort][100devs]
 - [The Complete JavaScript Course 2022][completejavascriptcourse]
+- [Conversation Design Institute - Core Curriculum][cdi]
 
 ### Completed Courses:
 
@@ -88,3 +89,4 @@
 [json]: https://www.json.org/json-en.html/
 [servicenow]: https://servicenow.com/
 [completejavascriptcourse]: https://www.udemy.com/course/the-complete-javascript-course/
+[cdi]: https://www.conversationdesigninstitute.com/courses.html
