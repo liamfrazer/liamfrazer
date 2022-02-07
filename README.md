@@ -57,7 +57,7 @@
 - [The Odin Project][theodinproject]
 - [#100Devs Cohort][100devs]
 - [The Complete JavaScript Course 2022][completejavascriptcourse]
-- [Conversation Design Institute - Core Curriculum][cdi]
+- [Conversation Design Institute][cdi]
 
 ### Completed Courses:
 
