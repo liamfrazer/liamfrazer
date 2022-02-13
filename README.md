@@ -5,12 +5,12 @@
 
 ---
 
-- 🏦 Employed by a top UK Bank for 9 years, starting as an apprentice in 2012, now a Senior AI Conversation Analyst.
-- 🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
-- 📚 Currently teaching myself as much as possible about: HTML | CSS | Javascript.
-- 🧳 Looking forward towards moving into Node.js | React | Next.js | Solidity.
-- 🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
-- 📝 2027 Goal: Software Engineer specialising in Blockchains, Smart Contracts & maybe even the Metaverse.
+-   🏦 Employed by a top UK Bank for 9 years, starting as an apprentice in 2012, now a Senior AI Conversation Analyst.
+-   🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
+-   📚 Currently teaching myself as much as possible about: HTML | CSS | Javascript.
+-   🧳 Looking forward towards moving into Node.js | React | Next.js | Solidity.
+-   🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
+-   📝 2027 Goal: Software Engineer specialising in Blockchains, Smart Contracts & maybe even the Metaverse.
 
 ---
 
@@ -54,15 +54,14 @@
 
 ### Current Courses:
 
-- [The Odin Project][theodinproject]
-- [#100Devs Cohort][100devs]
-- [The Complete JavaScript Course 2022][completejavascriptcourse]
-- [Conversation Design Institute][cdi]
+-   [The Odin Project][theodinproject]
+-   [Conversation Design Institute][cdi]
+-   [The Complete JavaScript Course 2022][completejavascriptcourse]
 
 ### Completed Courses:
 
-- [Learning How To Learn][lhtl]
-- [MTA Fundamentals (Security, Networking, Windows Server)][mta]
+-   [Learning How To Learn][lhtl]
+-   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
@@ -75,7 +74,6 @@
 [css3]: https://developer.mozilla.org/en-US/docs/Glossary/CSS/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 [solidity]: https://docs.soliditylang.org/
-[100devs]: https://leonnoel.com/100devs/
 [lhtl]: https://www.coursera.org/learn/learning-how-to-learn/
 [ibmwatson]: https://www.ibm.com/uk-en/watson/
 [liveperson]: https://www.liveperson.com/
