@@ -61,7 +61,7 @@
 ### Completed Courses:
 
 -   [Learning How To Learn][lhtl]
--   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
+-   MTA Fundamentals (Security, Networking, Windows Server)
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
@@ -84,7 +84,6 @@
 [pi]: https://www.raspberrypi.org/
 [jira]: https://www.atlassian.com/software/jira/
 [next.js]: https://nextjs.org/
-[mta]: https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770/
 [json]: https://www.json.org/json-en.html/
 [servicenow]: https://servicenow.com/
 [completejavascriptcourse]: https://www.udemy.com/course/the-complete-javascript-course/
