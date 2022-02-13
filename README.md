@@ -6,7 +6,7 @@
 ---
 
 -   🏦 Employed by a top UK Bank for 9 years, starting as an apprentice in 2012, now a Senior AI Conversation Analyst.
--   🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.
+-   🤖 Specialising in IBM Watson AI chatbot solutions for just under 5 years.</br>
 -   📚 Currently teaching myself as much as possible about: HTML | CSS | Javascript.
 -   🧳 Looking forward towards moving into Node.js | React | Next.js | Solidity.
 -   🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
