@@ -61,7 +61,7 @@
 ### Completed Courses:
 
 -   [Learning How To Learn][lhtl]
--   MTA Fundamentals (Security, Networking, Windows Server)
+-   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
 
 [vscode]: https://code.visualstudio.com/
 [theodinproject]: https://theodinproject.com/
@@ -88,3 +88,4 @@
 [servicenow]: https://servicenow.com/
 [completejavascriptcourse]: https://www.udemy.com/course/the-complete-javascript-course/
 [cdi]: https://www.conversationdesigninstitute.com/courses.html
+[mta]: https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770
