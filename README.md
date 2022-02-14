@@ -8,8 +8,7 @@
 -   🏦 Employed by a top UK Bank for 9 years, starting as an apprentice in 2012, now a Senior AI Conversation Analyst.
 -   🛠 Supported the implementation and System Testing of several automation projects to improve customer experience.
 -   🤖 Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
--   📚 Currently teaching myself as much as possible about: HTML | CSS | Javascript.
--   🧳 Looking forward towards moving into Node.js | React | Next.js | Solidity.
+    <br />
 -   🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
 -   📝 2027 Goal: Software Engineer specialising in Blockchains, Smart Contracts & maybe even the Metaverse.
 
@@ -31,7 +30,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://banner2.cleanpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />][mongodb]
 [<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />][solidity]
 [<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />][next.js]
-[<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />][blender]
 
 <br />
 
@@ -81,7 +79,6 @@
 [ubuntu]: https://ubuntu.com/
 [windows11]: https://www.microsoft.com/en-gb/windows/windows-11?r=1/
 [macos]: https://www.apple.com/uk/mac/
-[blender]: https://www.blender.org/
 [pi]: https://www.raspberrypi.org/
 [jira]: https://www.atlassian.com/software/jira/
 [next.js]: https://nextjs.org/
