@@ -37,9 +37,6 @@
 ### Known Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-
-<br />
-
 [<img align="left" alt="IBM Watson" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
 [<img align="left" alt="LivePerson" width="26px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
 [<img align="left" alt="ServiceNow" width="26px" src="https://symbols.getvecta.com/stencil_95/73_servicenow-icon.29d1cdcfca.svg" />][servicenow]
