@@ -51,8 +51,6 @@
 
 ### [Track my progression, via Notion][notion]
 
-<br />
-
 ### Current Courses:
 
 -   [The Complete JavaScript Course 2022][cjs]
