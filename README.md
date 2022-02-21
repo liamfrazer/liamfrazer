@@ -16,7 +16,7 @@
 
 ---
 
-### Track my Software Engineering journey
+### Track my Course progression:
 
 [Notion][notion]
 
