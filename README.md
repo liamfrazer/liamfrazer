@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
+[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
+[![Website](https://img.shields.io/website?label=dinomino.com&style=for-the-badge&url=https%3A%2F%2Fdinomino.com)](https://dinomino.com)
 
 ---
 
@@ -61,6 +63,10 @@
 
 -   [Harvard's CS50X Introduction to Computer Science][cs50x]
 -   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w]
+-   [The Complete NFT Web Development Course][nftweb]
+-   [Solidity & Ethereum in React (Next JS): The Complete Guide][soliditycourse]
+-   [The Self Taught Programmer][selftaught]
+-   [Automate the Boring Stuff with Python Programming][automateboring]
 
 ### Completed Courses:
 
@@ -92,3 +98,7 @@
 [cs50w]: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=5c44c1c1d4f5a81bb7d4170208bb07b1&position=1/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)/
 [notion]: https://liamfrazer.notion.site/Software-Engineer-Journey-0c3796b414184465aa1aa8fda6ea32a1/
+[nftweb]: https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/
+[soliditycourse]: https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/
+[selftaught]: https://www.udemy.com/course/self-taught-programmer/
+[automateboring]: https://www.udemy.com/course/automate/
