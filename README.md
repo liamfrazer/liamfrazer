@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
-[![Website](https://img.shields.io/website?label=dinomino.com&style=for-the-badge&url=https%3A%2F%2Fdinomino.com)](https://dinomino.com)
 
 ---
 
@@ -56,7 +55,6 @@
 ### Current Courses:
 
 -   [The Complete JavaScript Course 2022][cjs]
--   [Conversation Design Institute][cdi]
 -   [The Odin Project][top]
 
 ### Future Courses:
