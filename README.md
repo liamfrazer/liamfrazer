@@ -52,6 +52,8 @@
 
 ### [Track my progression, via Notion][notion]
 
+### [Track my notes, via Obsidian][obsidian]
+
 ### Current Courses:
 
 -   [The Complete JavaScript Course 2022][cjs]
@@ -100,3 +102,4 @@
 [soliditycourse]: https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/
 [selftaught]: https://www.udemy.com/course/self-taught-programmer/
 [automateboring]: https://www.udemy.com/course/automate/
+[obsidian]: https://github.com/liamfrazer/Obsidian-Notes
