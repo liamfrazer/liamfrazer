@@ -61,6 +61,7 @@
 
 ### Future Courses:
 
+-   [Full Stack Open 2022][fso2022]
 -   [Harvard's CS50X Introduction to Computer Science][cs50x]
 -   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w]
 -   [The Complete NFT Web Development Course][nftweb]
@@ -103,3 +104,4 @@
 [selftaught]: https://www.udemy.com/course/self-taught-programmer/
 [automateboring]: https://www.udemy.com/course/automate/
 [obsidian]: https://github.com/liamfrazer/Obsidian-Notes
+[fso2022]: https://fullstackopen.com/en/
