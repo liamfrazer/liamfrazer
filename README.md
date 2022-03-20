@@ -56,8 +56,6 @@
 </td>
 </td></tr></table>
 
----
-
 <!-- Start Knowledge Section -->
 <table><tr><td valign="top" width="33%">
 
@@ -82,7 +80,7 @@
 
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=white&color=6DA55F)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=white&color=61DAFB)][react]
-[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=#363636)][solidity]
+[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=363636)][solidity]
 [![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=white&color=20232A)][next.js]
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=white&color=00599C)][c]
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=white&color=ffdd54)][python]
@@ -105,8 +103,6 @@
 </div>
 </td></tr></table>
 <!-- End Knowledge Section -->
-
----
 
 <div align="center">
 
