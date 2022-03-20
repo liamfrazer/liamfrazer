@@ -25,3 +25,6 @@ jobs:
                   BRANCH: "main"
                   # Manual Commit messages - write your own messages here
                   COMMIT_MSG: "Wakatime Automated Coding Activity Update"
+                  SHOW_TIMEZONE: "True"
+                  SHOW_OS: "True"
+                  SHOW_LINES_OF_CODE: "True"
