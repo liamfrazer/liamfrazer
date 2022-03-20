@@ -22,13 +22,10 @@
 
 <!-- Start Dynamic Wakatime Stats -->
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/liamfrazer/liamfrazer/blob/main/images/stat.svg"
+  alt="Frz WakaTime Activity"
+/>
 
 ---
 
