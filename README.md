@@ -30,12 +30,19 @@
 ### Todoist
 
 <!-- TODO-IST:START -->
+<<<<<<< HEAD
 
 🏆 250 Karma Points  
 🌸 Completed 9 tasks today  
 ✅ Completed 9 tasks so far  
 ⏳ Longest streak is 1 days
 
+=======
+🏆  250 Karma Points           
+🌸  Completed 10 tasks today           
+✅  Completed 10 tasks so far           
+⏳  Longest streak is 1 days
+>>>>>>> 90c6902a0972a6517f13762b686c123d0fed749e
 <!-- TODO-IST:END -->
 
 <!-- Start Knowledge Section -->
