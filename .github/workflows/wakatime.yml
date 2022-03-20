@@ -1,6 +1,7 @@
 name: WakaTime status update
 
 on:
+    workflow_dispatch:
     push:
         branches: [main]
     schedule:
@@ -28,3 +29,7 @@ jobs:
                   SHOW_TIMEZONE: "True"
                   SHOW_OS: "True"
                   SHOW_LINES_OF_CODE: "True"
+                  SHOW_PROJECTS: "True"
+                  SHOW_DAYS_OF_WEEK: "True"
+                  SHOW_LANGUAGE: "True"
+                  RANGE: "today"

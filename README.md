@@ -27,7 +27,7 @@
   alt="Frz WakaTime Activity"
 />
 
----
+## ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz)
 
 <!-- End Dynamic Wakatime Stats -->
 
@@ -35,40 +35,36 @@
 
 ### Currently Studying
 
-<p align="center">
-
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-
-</p>
-<br />
-
-<!-- [![Website](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge)][javascript] -->
-
-<!-- [<img align="left" alt="CSS" height="40px" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&style=for-the-badge" />][css3]
-[<img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge" />][javascript] -->
+[<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css3]
+[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][javascript]
+</br>
 
 ### Future Languages & Tools
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />][solidity]
-[<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />][next.js]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node.js]
+[<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
+[<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />][solidity]
+[<img align="left" alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />][next.js]
+[<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />][c]
+[<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />][python]
 
 <br />
 
 ### Known Languages and Tools
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="IBM Watson" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
-[<img align="left" alt="LivePerson" width="26px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
-[<img align="left" alt="ServiceNow" width="26px" src="https://symbols.getvecta.com/stencil_95/73_servicenow-icon.29d1cdcfca.svg" />][servicenow]
-[<img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.70390a6f88.svg" />][jira]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+[<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][html5]
+[<img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />][jira]
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />][vscode]
+[<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
+<br />
+
+[<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+[<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
+
+[<img align="left" alt="IBM Watson" width="40px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
+[<img align="left" alt="LivePerson" width="40px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
+[<img align="left" alt="ServiceNow" width="40px" src="https://symbols.getvecta.com/stencil_95/73_servicenow-icon.29d1cdcfca.svg" />][servicenow]
 
 <br />
 
@@ -78,12 +74,13 @@
 
 <!-- Start Courses Section -->
 
-### [Track my progression, via Notion][notion]
-
-### [Track my notes, via Obsidian][obsidian]
+[<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_journey_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+[<img align="left" alt="Obsidian" src="https://img.shields.io/badge/Obsidian_Markdown_Notes-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
+<br />
 
 ### Current Courses
 
+-   [<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/The_Complete_JavaScript_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][cjs]
 -   [The Complete JavaScript Course 2022][cjs]
 -   [The Odin Project][top]
 
