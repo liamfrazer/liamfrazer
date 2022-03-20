@@ -27,7 +27,7 @@
   alt="Frz WakaTime Activity"
 />
 
-## ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz)
+<!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
 
 <!-- End Dynamic Wakatime Stats -->
 
@@ -36,15 +36,15 @@
 ### Currently Studying
 
 [<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css3]
-[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][javascript]
+[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][javascript]
 </br>
 
 ### Future Languages & Tools
 
 [<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node.js]
 [<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
-[<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />][solidity]
-[<img align="left" alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />][next.js]
+[<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%2320232a.svg?style=for-the-badge&logo=solidity&logoColor=white" />][solidity]
+[<img align="left" alt="Next.js" src="https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />][next.js]
 [<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />][c]
 [<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />][python]
 
@@ -56,11 +56,12 @@
 [<img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />][jira]
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />][vscode]
 [<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
 <br />
 
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
+<br />
 
 [<img align="left" alt="IBM Watson" width="40px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
 [<img align="left" alt="LivePerson" width="40px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
@@ -80,24 +81,51 @@
 
 ### Current Courses
 
--   [<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/The_Complete_JavaScript_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][cjs]
--   [The Complete JavaScript Course 2022][cjs]
+[<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/The_Complete_JavaScript_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][cjs]
+<br />
+
 -   [The Odin Project][top]
+<!-- -   [The Complete JavaScript Course 2022][cjs] -->
 
 ### Future Courses
 
 -   [Full Stack Open 2022][fso2022]
--   [Harvard's CS50X Introduction to Computer Science][cs50x]
--   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w]
+
+[<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/Harvard_CS50X_Introduction_to_Computer_Science-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][cs50x]
+<br />
+
+[<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/Harvard_CS50W_Web_Programming_With_Python_and_JavaScript-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][cs50w]
+<br />
+
+[<img align="left" alt="The Complete NFT Web Development Course" src="https://img.shields.io/badge/The_Complete_NFT_Web_Development_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][nftweb]
+<br />
+
+[<img align="left" alt="Solidity & Ethereum in React (Next JS)" src="https://img.shields.io/badge/solidity and ethereum in react the complete guide-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][soliditycourse]
+<br />
+
+[<img align="left" alt="Automate the Boring Stuff with Python Programming" src="https://img.shields.io/badge/Automate_The_Boring_Stuff_with_python_Programming-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][automateboring]
+<br />
+
+[<img align="left" alt="The Self Taught Programmer" src="https://img.shields.io/badge/The_Self_Taught_Programmer-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][selftaught]
+<br />
+
+<!-- -   [Solidity & Ethereum in React (Next JS): The Complete Guide][soliditycourse]
 -   [The Complete NFT Web Development Course][nftweb]
--   [Solidity & Ethereum in React (Next JS): The Complete Guide][soliditycourse]
--   [The Self Taught Programmer][selftaught]
 -   [Automate the Boring Stuff with Python Programming][automateboring]
+-   [The Self Taught Programmer][selftaught]
+-   [Harvard's CS50X Introduction to Computer Science][cs50x]
+-   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w] -->
 
 ### Completed Courses:
 
--   [Learning How To Learn][lhtl]
--   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
+[<img align="left" alt="Learning How To Learn" src="https://img.shields.io/badge/learning_how_to_learn-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][lhtl]
+<br />
+
+[<img align="left" alt="MTA Fundamentals (Security, Networking, Windows Server" src="https://img.shields.io/badge/MTA_Fundamentals_(Security)_(Networking)_(Windows_Server)-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />][mta]
+<br />
+
+<!-- -   [Learning How To Learn][lhtl] -->
+<!-- -   [MTA Fundamentals (Security, Networking, Windows Server)][mta] -->
 
 <!-- End Courses Section -->
 
