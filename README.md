@@ -1,14 +1,15 @@
 <!-- Start Title Section -->
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=74FF23&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
-</p>
-<!-- <p align="center">
+</div>
+<div align="center">
 
-<!-- [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev) -->
+[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
+[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 
-<!-- </p> -->
+</div>
 
 <!-- End Title Section -->
 <!-- Start About Me Section -->
@@ -104,12 +105,6 @@
 </td></tr></table>
 <!-- End Knowledge Section -->
 
-<div align="center">
-
-[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_course_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
-
-</div>
-
 <!-- Start Courses Section -->
 <table><tr><td valign="top" width="33%">
 <div align="center">
@@ -153,6 +148,12 @@
 </div>
 </td></tr></table>
 
+<div align="center">
+
+[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_progression_above-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+
+</div>
+
 <!-- End Courses Section -->
 
 <!-- Start Links Section -->
@@ -190,13 +191,3 @@
 [fso2022]: https://fullstackopen.com/en/
 
 <!-- End Links Section -->
-
-<!-- Start Website Section -->
-
-<!-- [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
-[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
-
---- -->
-
-<!-- End Website Section -->
