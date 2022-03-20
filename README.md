@@ -24,6 +24,8 @@
 />
 
 <!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 <!-- End Dynamic Wakatime Stats -->
 <!-- Start Knowledge Section -->
 
@@ -46,22 +48,22 @@
 
 ### Known Languages and Tools
 
-[<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+<!-- [<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
-<br />
+<br /> -->
 
 [<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][html5]
 [<img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />][jira]
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />][vscode]
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />][vscode]
 [<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
 <br />
 
-[<img align="left" alt="IBM Watson" width="40px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
+<!-- [<img align="left" alt="IBM Watson" width="40px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
 [<img align="left" alt="LivePerson" width="40px" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/chat-engagements/LP_Sun_2020_Engagement_Icon.svg" />][liveperson]
 [<img align="left" alt="ServiceNow" width="40px" src="https://symbols.getvecta.com/stencil_95/73_servicenow-icon.29d1cdcfca.svg" />][servicenow]
 
-<br />
+<br /> -->
 
 ---
 
@@ -71,8 +73,8 @@
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_journey_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 <br />
 
-[<img align="left" alt="Obsidian" src="https://img.shields.io/badge/Obsidian_Markdown_Notes-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
-<br />
+<!-- [<img align="left" alt="Obsidian" src="https://img.shields.io/badge/Obsidian_Markdown_Notes-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
+<br /> -->
 
 ### Current Courses
 
