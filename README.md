@@ -3,6 +3,12 @@
 <p align="center">
 <a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=74FF23&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 </p>
+<!-- <p align="center">
+
+<!-- [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev) -->
+
+<!-- </p> -->
 
 <!-- End Title Section -->
 <!-- Start About Me Section -->
@@ -17,6 +23,8 @@
 
 <!-- End About Me Section -->
 
+<table><tr><td valign="top" width="50%">
+<div align="center">
 <!-- Start Dynamic Wakatime Stats -->
 
 <img
@@ -24,9 +32,9 @@
   alt="Frz WakaTime Activity"
 />
 
-<!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
-
 <!-- End Dynamic Wakatime Stats -->
+</div>
+</td> <td valign="top" width="50%">
 
 ### Todoist
 
@@ -38,6 +46,8 @@
 ⏳ Longest streak is 1 days
 
 <!-- TODO-IST:END -->
+</td>
+</td></tr></table>
 
 <!-- Start Knowledge Section -->
 
@@ -73,25 +83,23 @@
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 <br />
 
-[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]
+[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]<br />
 [![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=white&color=E3B465)][top]
 
 ### Future Courses
 
-[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=white&color=F9F9F9)][fso2022]
-[![](https://img.shields.io/badge/Course-Harvard_CS50X_Introduction_to_Computer_Science-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50x]
-[![](https://img.shields.io/badge/Course-Harvard_CS50W_Web_Programming_with_Python_and_JavaScript-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50w]
-[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Development_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][nftweb]
-[![](<https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React_(Next_JS)-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0>)][soliditycourse]
-[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff_with_Python_Programming-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][automateboring]
+[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=white&color=F9F9F9)][fso2022]<br />
+[![](https://img.shields.io/badge/Course-Harvard_CS50X_Introduction_to_Computer_Science-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50x]<br />
+[![](https://img.shields.io/badge/Course-Harvard_CS50W_Web_Programming_with_Python_and_JavaScript-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50w]<br />
+[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Development_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][nftweb]<br />
+[![](<https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React_(Next_JS)-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0>)][soliditycourse]<br />
+[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff_with_Python_Programming-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][automateboring]<br />
 [![](https://img.shields.io/badge/Course-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][selftaught]
 
 ### Completed Courses
 
-[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]
+[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]<br />
 [![](<https://img.shields.io/badge/Course-MTA_Fundamentals_(Security,_Networking,_Windows_Server)-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA>)][mta]
-
----
 
 <!-- End Courses Section -->
 
