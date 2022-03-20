@@ -1,10 +1,22 @@
-## Senior AI Conversation Analyst &nbsp; > &nbsp; Future Software Engineer
+<!-- Start Title Section -->
 
-[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+<!-- ## Senior AI Conversation Analyst &nbsp; > &nbsp; Future Software Engineer -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=74FF23&center=true&vCenter=true&width=600&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer)](https://git.io/typing-svg)
+
+<!-- End Title Section -->
+
+<!-- Start Website Section -->
+
+<!-- [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 
----
+--- -->
+
+<!-- End Website Section -->
+
+<!-- Start About Me Section -->
 
 -   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
 -   🛠 Supported the implementation and Beta Testing of several automation projects to improve customer experience.
@@ -17,17 +29,27 @@
 
 ---
 
+<!-- End About Me Section -->
+
+<!-- Start Dynamic Wakatime Stats -->
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
+<!-- End Dynamic Wakatime Stats -->
+
+<!-- Start Knowledge Section -->
+
 ### Currently Studying:
 
 <!-- [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript] -->
+<!-- [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3] -->
+<!-- [![Website](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge)][javascript] -->
 
-[![Website](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge)][javascript]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="CSS" height="40px" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&style=for-the-badge" />][css3]
+[<img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge" />][javascript]
 
 <br />
 
@@ -57,6 +79,10 @@
 
 ---
 
+<!-- End Knowledge Section -->
+
+<!-- Start Courses Section -->
+
 ### [Track my progression, via Notion][notion]
 
 ### [Track my notes, via Obsidian][obsidian]
@@ -80,6 +106,10 @@
 
 -   [Learning How To Learn][lhtl]
 -   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
+
+<!-- End Courses Section -->
+
+<!-- Start Links Section -->
 
 [vscode]: https://code.visualstudio.com/
 [top]: https://theodinproject.com/
@@ -112,3 +142,5 @@
 [automateboring]: https://www.udemy.com/course/automate/
 [obsidian]: https://github.com/liamfrazer/Obsidian-Notes
 [fso2022]: https://fullstackopen.com/en/
+
+<!-- End Links Section -->
