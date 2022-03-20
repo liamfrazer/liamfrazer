@@ -13,6 +13,8 @@
 <!-- End Title Section -->
 <!-- Start About Me Section -->
 
+---
+
 -   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
 -   🛠 Supported the implementation and Beta Testing of several automation projects to improve customer experience.
 -   🤖 Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
@@ -25,6 +27,9 @@
 
 <table><tr><td valign="top" width="50%">
 <div align="center">
+
+### Time Spent Coding
+
 <!-- Start Dynamic Wakatime Stats -->
 
 <img
@@ -35,35 +40,61 @@
 <!-- End Dynamic Wakatime Stats -->
 </div>
 </td> <td valign="top" width="50%">
+<div align="center">
 
-### Todoist
+### Todo-ist Task List
 
 <!-- TODO-IST:START -->
-🏆  350 Karma Points           
-🌸  Completed 10 tasks today           
-✅  Completed 10 tasks so far           
-⏳  Longest streak is 1 days
+
+🏆 350 Karma Points  
+🌸 Completed 10 tasks today  
+✅ Completed 10 tasks so far  
+⏳ Longest streak is 1 days
+
 <!-- TODO-IST:END -->
+</div>
 </td>
 </td></tr></table>
 
+---
+
 <!-- Start Knowledge Section -->
+<table><tr><td valign="top" width="33%">
+
+<div align="center">
 
 ### Currently Studying
 
+<br/>
+
 [![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=white&color=1572B6)][css3]
+[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=white&color=000000)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=white&color=F7DF1E)][javascript]
+
+</div>
+</td><td valign="top" width="33%">
+
+<div align="center">
 
 ### Future Languages & Tools
 
+<br/>
+
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=white&color=6DA55F)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=white&color=61DAFB)][react]
-[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=20232A)][solidity]
+[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=#363636)][solidity]
 [![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=white&color=20232A)][next.js]
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=white&color=00599C)][c]
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=white&color=ffdd54)][python]
 
+</div>
+</td><td valign="top" width="33%">
+
+<div align="center">
+
 ### Known Languages and Tools
+
+<br/>
 
 [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=white&color=E34F26)][html5]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=white&color=0078D7)][vscode]
@@ -71,33 +102,60 @@
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=white&color=F05033)][git]
 [![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=white&color=20232A)][github]
 
+</div>
+</td></tr></table>
+<!-- End Knowledge Section -->
+
 ---
 
-<!-- End Knowledge Section -->
+<div align="center">
+
+[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_course_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+
+</div>
+
 <!-- Start Courses Section -->
+<table><tr><td valign="top" width="33%">
+<div align="center">
 
 ### Current Courses
 
-[<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
-<br />
+<br/>
 
-[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]<br />
 [![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=white&color=E3B465)][top]
+[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]
+
+</div>
+</td><td valign="top" width="33%">
+
+<div align="center">
 
 ### Future Courses
 
-[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=white&color=F9F9F9)][fso2022]<br />
-[![](https://img.shields.io/badge/Course-Harvard_CS50X_Introduction_to_Computer_Science-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50x]<br />
-[![](https://img.shields.io/badge/Course-Harvard_CS50W_Web_Programming_with_Python_and_JavaScript-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50w]<br />
-[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Development_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][nftweb]<br />
-[![](<https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React_(Next_JS)-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0>)][soliditycourse]<br />
-[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff_with_Python_Programming-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][automateboring]<br />
+<br/>
+
+[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=white&color=F9F9F9)][fso2022]
+[![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50x]
+[![](https://img.shields.io/badge/Course-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50w]
+[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Development_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][nftweb]
+[![](<https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React_(Next_JS)-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0>)][soliditycourse]
+[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][automateboring]
 [![](https://img.shields.io/badge/Course-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][selftaught]
+
+</div>
+</td><td valign="top" width="33%">
+
+<div align="center">
 
 ### Completed Courses
 
-[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]<br />
-[![](<https://img.shields.io/badge/Course-MTA_Fundamentals_(Security,_Networking,_Windows_Server)-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA>)][mta]
+<br/>
+
+[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]
+[![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA)][mta]
+
+</div>
+</td></tr></table>
 
 <!-- End Courses Section -->
 
