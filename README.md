@@ -24,9 +24,10 @@
 />
 
 <!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
+
+<!-- End Dynamic Wakatime Stats -->
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-<!-- End Dynamic Wakatime Stats -->
 <!-- Start Knowledge Section -->
 
 ### Currently Studying
