@@ -33,13 +33,13 @@
 
 <!-- Start Knowledge Section -->
 
-### Currently Studying
+## Currently Studying
 
 [<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css3]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][javascript]
 </br>
 
-### Future Languages & Tools
+## Future Languages & Tools
 
 [<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node.js]
 [<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
@@ -50,17 +50,17 @@
 
 <br />
 
-### Known Languages and Tools
+## Known Languages and Tools
+
+[<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+[<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
+<br />
 
 [<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][html5]
 [<img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />][jira]
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />][vscode]
 [<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
-<br />
-
-[<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
-[<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
 <br />
 
 [<img align="left" alt="IBM Watson" width="40px" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" />][ibmwatson]
@@ -75,21 +75,22 @@
 
 <!-- Start Courses Section -->
 
+## Current Courses
+
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_journey_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 [<img align="left" alt="Obsidian" src="https://img.shields.io/badge/Obsidian_Markdown_Notes-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
 <br />
 
-### Current Courses
-
 [<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/The_Complete_JavaScript_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][cjs]
 <br />
 
--   [The Odin Project][top]
-<!-- -   [The Complete JavaScript Course 2022][cjs] -->
+[<img align="left" alt="The Odin Project" src="https://img.shields.io/badge/The_Odin_Project-E3B465?style=for-the-badge" />][top]
+<br />
 
-### Future Courses
+## Future Courses
 
--   [Full Stack Open 2022][fso2022]
+[<img align="left" alt="Full Stack Open" src="https://img.shields.io/badge/Full_Stack_Open_2022-%23000000.svg?style=for-the-badge" />][fso2022]
+<br />
 
 [<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/Harvard_CS50X_Introduction_to_Computer_Science-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][cs50x]
 <br />
@@ -109,23 +110,27 @@
 [<img align="left" alt="The Self Taught Programmer" src="https://img.shields.io/badge/The_Self_Taught_Programmer-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][selftaught]
 <br />
 
-<!-- -   [Solidity & Ethereum in React (Next JS): The Complete Guide][soliditycourse]
+<!--
+-   [Full Stack Open 2022][fso2022]
+-   [Solidity & Ethereum in React (Next JS): The Complete Guide][soliditycourse]
 -   [The Complete NFT Web Development Course][nftweb]
 -   [Automate the Boring Stuff with Python Programming][automateboring]
 -   [The Self Taught Programmer][selftaught]
 -   [Harvard's CS50X Introduction to Computer Science][cs50x]
--   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w] -->
+-   [Harvard's CS50W Web Programming with Python and JavaScript][cs50w]
+-   [The Odin Project][top]
+-   [The Complete JavaScript Course 2022][cjs]
+-   [Learning How To Learn][lhtl]
+-   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
+-->
 
-### Completed Courses:
+## Completed Courses:
 
 [<img align="left" alt="Learning How To Learn" src="https://img.shields.io/badge/learning_how_to_learn-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][lhtl]
 <br />
 
 [<img align="left" alt="MTA Fundamentals (Security, Networking, Windows Server" src="https://img.shields.io/badge/MTA_Fundamentals_(Security)_(Networking)_(Windows_Server)-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />][mta]
 <br />
-
-<!-- -   [Learning How To Learn][lhtl] -->
-<!-- -   [MTA Fundamentals (Security, Networking, Windows Server)][mta] -->
 
 <!-- End Courses Section -->
 
