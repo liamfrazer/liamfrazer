@@ -15,6 +15,7 @@
 ---
 
 <!-- End About Me Section -->
+
 <!-- Start Dynamic Wakatime Stats -->
 
 <img
@@ -25,12 +26,18 @@
 <!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
 
 <!-- End Dynamic Wakatime Stats -->
+
+### Todoist
+
 <!-- TODO-IST:START -->
-🏆  250 Karma Points           
-🌸  Completed 9 tasks today           
-✅  Completed 9 tasks so far           
-⏳  Longest streak is 1 days
+
+🏆 250 Karma Points  
+🌸 Completed 9 tasks today  
+✅ Completed 9 tasks so far  
+⏳ Longest streak is 1 days
+
 <!-- TODO-IST:END -->
+
 <!-- Start Knowledge Section -->
 
 ### Currently Studying
@@ -47,6 +54,8 @@
 [<img align="left" alt="Next.js" src="https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />][next.js]
 [<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />][c]
 [<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />][python]
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=white&color=0078D7)
 
 <br />
 
