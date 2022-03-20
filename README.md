@@ -1,17 +1,14 @@
 <!-- Start Title Section -->
 
 <p align="center">
-<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=74FF23&center=true&vCenter=true&width=800&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=74FF23&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 
 <!-- End Title Section -->
-
 <!-- Start About Me Section -->
 
 -   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
 -   🛠 Supported the implementation and Beta Testing of several automation projects to improve customer experience.
 -   🤖 Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
-
----
 
 -   🥅 2022 Goal: Progressing through my journey of becoming a Web Developer.
 -   📝 2027 Goal: Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
@@ -19,7 +16,6 @@
 ---
 
 <!-- End About Me Section -->
-
 <!-- Start Dynamic Wakatime Stats -->
 
 <img
@@ -28,18 +24,16 @@
 />
 
 <!-- ## ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frz) -->
-
 <!-- End Dynamic Wakatime Stats -->
-
 <!-- Start Knowledge Section -->
 
-## Currently Studying
+### Currently Studying
 
 [<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css3]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][javascript]
 </br>
 
-## Future Languages & Tools
+### Future Languages & Tools
 
 [<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node.js]
 [<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
@@ -50,7 +44,7 @@
 
 <br />
 
-## Known Languages and Tools
+### Known Languages and Tools
 
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
@@ -72,14 +66,15 @@
 ---
 
 <!-- End Knowledge Section -->
-
 <!-- Start Courses Section -->
 
-## Current Courses
-
 [<img align="left" alt="Notion" src="https://img.shields.io/badge/Track_my_journey_progression_via_notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+<br />
+
 [<img align="left" alt="Obsidian" src="https://img.shields.io/badge/Obsidian_Markdown_Notes-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" />][obsidian]
 <br />
+
+### Current Courses
 
 [<img align="left" alt="The Complete JavaScript Course" src="https://img.shields.io/badge/The_Complete_JavaScript_Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />][cjs]
 <br />
@@ -87,7 +82,7 @@
 [<img align="left" alt="The Odin Project" src="https://img.shields.io/badge/The_Odin_Project-E3B465?style=for-the-badge" />][top]
 <br />
 
-## Future Courses
+### Future Courses
 
 [<img align="left" alt="Full Stack Open" src="https://img.shields.io/badge/Full_Stack_Open_2022-%23000000.svg?style=for-the-badge" />][fso2022]
 <br />
@@ -124,9 +119,9 @@
 -   [MTA Fundamentals (Security, Networking, Windows Server)][mta]
 -->
 
-## Completed Courses:
+### Completed Courses
 
-[<img align="left" alt="Learning How To Learn" src="https://img.shields.io/badge/learning_how_to_learn-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />][lhtl]
+[<img align="left" alt="Learning How To Learn" src="https://img.shields.io/badge/Learning_How_To_Learn-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />][lhtl]
 <br />
 
 [<img align="left" alt="MTA Fundamentals (Security, Networking, Windows Server" src="https://img.shields.io/badge/MTA_Fundamentals_(Security)_(Networking)_(Windows_Server)-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />][mta]

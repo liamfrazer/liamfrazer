@@ -32,4 +32,4 @@ jobs:
                   SHOW_PROJECTS: "True"
                   SHOW_DAYS_OF_WEEK: "True"
                   SHOW_LANGUAGE: "True"
-                  RANGE: "today"
+                  TIME_RANGE: last_30_days
