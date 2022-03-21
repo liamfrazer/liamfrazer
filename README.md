@@ -43,15 +43,15 @@
 ## About Me
 
 <div align="center">
-🏦<br />Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
+Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
 </div>
 <br />
 <div align="center">
-🤖<br />Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
+Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
 </div>
 <br />
 <div align="center">
-🛠<br />Supported the implementation and Beta Testing of several automation projects to improve customer experience.
+Supported the implementation and Beta Testing of several automation projects to improve customer experience.
 </div>
 <br />
 
@@ -64,11 +64,19 @@
 ## Goals
 
 <div align="center">
-🥅<br />2022 Goal<br />Progressing through my journey of becoming a Web Developer.
+
+### 2022
+
+Progressing through my journey of becoming a Web Developer.
+
 </div>
-<br />
+
 <div align="center">
-📝<br />2027 Goal<br />Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
+
+### 2027
+
+Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
+
 </div>
 
 </td></tr></table>
