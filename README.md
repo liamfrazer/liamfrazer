@@ -15,38 +15,31 @@
 </div>
 
 <!-- End Title Section -->
-
-<table><tr><td valign="top" width="100%">
 <div align="center">
 
-### Time Spent Coding
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 8 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.71% 
-YAML                     53 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.97% 
+💬 Programming Languages:
+Markdown                 8 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.71%
+YAML                     53 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.97%
 JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.32%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  9 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  8 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   90.94% 
+💻 Operating System:
+Windows                  8 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   90.94%
 Mac                      53 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.06%
 
 ```
 
+Last Updated on 21/03/2022 22:00:33 UTC
 
- Last Updated on 21/03/2022 22:00:33 UTC
 <!--END_SECTION:waka-->
 </div>
 </td></tr></table>
@@ -190,11 +183,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  1,351 Karma Points           
-🌸  Completed 40 tasks today           
-🗓  Completed 40 tasks this week           
-✅  Completed 55 tasks so far           
-⏳  Longest streak is 2 days
+
+🏆 1,351 Karma Points  
+🌸 Completed 40 tasks today  
+🗓 Completed 40 tasks this week  
+✅ Completed 55 tasks so far  
+⏳ Longest streak is 2 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
@@ -202,14 +197,18 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 <td valign="top" width="33%">
 <div align="center">
 
-## Spotify
+## Most Used Languages
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamfrazer&layout=compact&theme=dark&hide_title=1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </td>
 <td valign="top" width="33%">
 <div align="center">
+
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
 </tr></table>
