@@ -193,6 +193,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 <td valign="top" width="33%">
 <div align="center">
 <!--START_SECTION:waka-->
+
+```text
+Markdown     8 hrs 44 mins   ██████████████████████▒░░   88.71 %
+YAML         53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+```
+
 <!--END_SECTION:waka-->
 </td>
 </tr></table>
