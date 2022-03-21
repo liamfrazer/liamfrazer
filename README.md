@@ -2,9 +2,12 @@
 
 <div align="center">
 
-<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=74FF23&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=DB5631&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 
 </div>
+
+---
+
 <div align="center">
 <br />
 
@@ -15,11 +18,6 @@
 </div>
 
 <!-- End Title Section -->
-<!-- Start About Me Section -->
-
----
-
-<!-- End About Me Section -->
 
 <table><tr><td valign="top" width="100%">
 <div align="center">
@@ -37,29 +35,9 @@
 </div>
 </td></tr></table>
 
-<div align="center">
-
-[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_learning Journey-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
-
-</div>
-
-<table><tr><td valign="top" width="33%">
-<div align="center">
-
-## Todoist Tasks
-
-<!-- TODO-IST:START -->
-
-🏆 593 Karma Points  
-🌸 Completed 6 tasks today  
-✅ Completed 21 tasks so far  
-⏳ Longest streak is 2 days
-
-<!-- TODO-IST:END -->
-</div>
-</td>
-
-<td valign="top" width="33%">
+<table>
+<tr>
+<td valign="top" width="50%">
 <div align="center">
 
 ## About Me
@@ -80,7 +58,7 @@
 </div>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 <div align="center">
 
 ## Goals
@@ -92,11 +70,15 @@
 <div align="center">
 📝<br />2027 Goal<br />Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
 </div>
+
+</td></tr></table>
+
+<div align="center">
+
+[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_learning Journey-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+
 </div>
-</td>
-
-</tr>
-
+<table>
 <!-- Start Knowledge Section -->
 <tr><td valign="top" width="33%">
 
@@ -172,6 +154,34 @@
 
 [![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]
 [![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA)][mta]
+
+</div>
+</td></tr></table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<div align="center">
+
+## Todoist Tasks
+
+<!-- TODO-IST:START -->
+
+🏆 593 Karma Points  
+🌸 Completed 6 tasks today  
+✅ Completed 21 tasks so far  
+⏳ Longest streak is 2 days
+
+<!-- TODO-IST:END -->
+</div>
+</td>
+
+<td valign="top" width="50%">
+<div align="center">
+
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 </td></tr></table>
