@@ -5,9 +5,6 @@
 <a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=DB5631&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 
 </div>
-
----
-
 <div align="center">
 <br />
 
@@ -83,7 +80,7 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 
 <div align="center">
 
-[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_learning Journey-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_Course_Progression_via_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
 
 </div>
 <table>
@@ -95,7 +92,6 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 ## Currently Studying
 
 [![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=white&color=1572B6)][css3]
-[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=white&color=000000)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=white&color=F7DF1E)][javascript]
 
 </div>
@@ -120,10 +116,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 ## Known Languages / Tools
 
 [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=white&color=E34F26)][html5]
+[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=white&color=000000)][markdown]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=white&color=0078D7)][vscode]
 [![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=white&color=0A0FFF)][jira]
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=white&color=F05033)][git]
 [![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=white&color=20232A)][github]
+[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=white&color=8B77DE)][obsidian]
+[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=white&color=FFFFFF)][obsidian]
 
 </div>
 </td></tr>
@@ -168,21 +167,23 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <div align="center">
 
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  851 Karma Points           
-🌸  Completed 33 tasks today           
-✅  Completed 48 tasks so far           
-⏳  Longest streak is 2 days
+
+🏆 851 Karma Points  
+🌸 Completed 33 tasks today  
+✅ Completed 48 tasks so far  
+⏳ Longest streak is 2 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <div align="center">
 
 ## Spotify
@@ -227,5 +228,6 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 [automateboring]: https://www.udemy.com/course/automate/
 [obsidian]: https://github.com/liamfrazer/Obsidian-Notes
 [fso2022]: https://fullstackopen.com/en/
+[markdown]: https://daringfireball.net/projects/markdown/
 
 <!-- End Links Section -->
