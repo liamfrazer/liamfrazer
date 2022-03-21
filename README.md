@@ -163,9 +163,7 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 [![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA)][mta]
 
 </div>
-</td></tr></table>
-
-<table>
+</td></tr>
 <tr>
 <td valign="top" width="33%">
 <div align="center">
@@ -191,7 +189,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-</td></tr></table>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</td>
+</tr></table>
 
 <!-- End Courses Section -->
 
