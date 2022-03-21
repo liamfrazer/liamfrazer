@@ -46,10 +46,10 @@
 ### Todo-ist Task List
 
 <!-- TODO-IST:START -->
-🏆  550 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 17 tasks so far           
-⏳  Longest streak is 1 days
+🏆  593 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 20 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 </div>
 </td>
