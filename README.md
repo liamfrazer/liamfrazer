@@ -17,34 +17,8 @@
 <!-- End Title Section -->
 <div align="center">
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2014%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Markdown                 11 hrs 23 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   87.39% 
-YAML                     1 hr 22 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.54% 
-JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76% 
-XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.32%
-
-🔥 Editors: 
-VS Code                  13 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
-
-💻 Operating System: 
-Windows                  12 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.16% 
-Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.84%
-
-```
-
-
- Last Updated on 22/03/2022 20:08:40 UTC
-<!--END_SECTION:waka-->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-</td></tr></table>
 
 <table>
 <tr>
@@ -185,11 +159,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  1,755 Karma Points           
-🌸  Completed 17 tasks today           
-🗓  Completed 60 tasks this week           
-✅  Completed 75 tasks so far           
-⏳  Longest streak is 3 days
+
+🏆 1,755 Karma Points  
+🌸 Completed 17 tasks today  
+🗓 Completed 60 tasks this week  
+✅ Completed 75 tasks so far  
+⏳ Longest streak is 3 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
