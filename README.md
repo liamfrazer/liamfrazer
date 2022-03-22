@@ -16,27 +16,59 @@
 
 <!-- End Title Section -->
 
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2014%20mins-blue)
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages:
+Markdown                 11 hrs 23 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   87.39%
+YAML                     1 hr 22 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.54%
+JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76%
+XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.32%
+
+🔥 Editors:
+VS Code                  13 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+
+💻 Operating System:
+Windows                  12 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.16%
+Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.84%
+
+```
+
+Last Updated on 22/03/2022 21:20:59 UTC
+
+<!--END_SECTION:waka-->
+</div>
+
 <table>
 <tr>
 <td valign="top" width="50%">
+
 <div align="center">
 
 ## About Me
 
-<div align="center">
-Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
 </div>
-<br />
-<div align="center">
-Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
-</div>
-<br />
-<div align="center">
-Supported the implementation and Beta Testing of several automation projects to improve customer experience.
-</div>
+
+-   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
+
 <br />
 
-</div>
+-   🤖 Specialising in IBM Watson AI chatbot solutions & LivePerson for just under 5 years.
+
+<br />
+
+-   🛠️ Supported the implementation and Beta Testing of several automation projects to improve customer experience.
+
+<br />
+
 </td>
 
 <td valign="top" width="50%">
@@ -44,53 +76,25 @@ Supported the implementation and Beta Testing of several automation projects to 
 
 ## Goals
 
-<div align="center">
-
-### 2022
-
-Progressing through my journey of becoming a Web Developer.
-
 </div>
 
 <div align="center">
 
-### 2027
-
-Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
+### 🥅 2022 🥅
 
 </div>
+
+-   Progressing through my journey of becoming a Web Developer.
+
+<div align="center">
+
+### 🏆 2027 🏆
+
+</div>
+
+-   Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
 
 </td></tr></table>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2014%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Markdown                 11 hrs 23 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   87.39% 
-YAML                     1 hr 22 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.54% 
-JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76% 
-XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.32%
-
-🔥 Editors: 
-VS Code                  13 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
-
-💻 Operating System: 
-Windows                  12 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.16% 
-Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.84%
-
-```
-
-
- Last Updated on 22/03/2022 21:20:59 UTC
-<!--END_SECTION:waka-->
-</div>
 
 <div align="center">
 
