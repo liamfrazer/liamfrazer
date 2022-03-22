@@ -15,10 +15,6 @@
 </div>
 
 <!-- End Title Section -->
-<div align="center">
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-</div>
 
 <table>
 <tr>
@@ -65,6 +61,12 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 </div>
 
 </td></tr></table>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
 <div align="center">
 
@@ -159,11 +161,13 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  1,755 Karma Points           
-🌸  Completed 17 tasks today           
-🗓  Completed 60 tasks this week           
-✅  Completed 75 tasks so far           
-⏳  Longest streak is 3 days
+
+🏆 1,755 Karma Points  
+🌸 Completed 17 tasks today  
+🗓 Completed 60 tasks this week  
+✅ Completed 75 tasks so far  
+⏳ Longest streak is 3 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
