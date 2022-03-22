@@ -23,7 +23,7 @@ jobs:
                   # Options
                   user: liamfrazer
                   template: classic
-                  base: header
+                  base: ""
                   config_timezone: Europe/London
                   plugin_wakatime: yes
                   plugin_wakatime_days: 365
