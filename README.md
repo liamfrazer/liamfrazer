@@ -188,9 +188,9 @@ Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web 
 
 <!-- TODO-IST:START -->
 🏆  1,540 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 50 tasks this week           
-✅  Completed 65 tasks so far           
+🌸  Completed 9 tasks today           
+🗓  Completed 52 tasks this week           
+✅  Completed 67 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 </div>
