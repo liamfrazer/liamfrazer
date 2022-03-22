@@ -21,9 +21,7 @@ jobs:
                   token: ${{ secrets.GH_TOKEN }}
 
                   # Options
-                  user: liamfrazer
                   template: classic
-                  base: header
                   config_timezone: Europe/London
                   plugin_wakatime: yes
                   plugin_wakatime_days: 365
@@ -31,3 +29,4 @@ jobs:
                   plugin_wakatime_sections: time, languages, languages-graphs, editors, os
                   plugin_wakatime_url: https://wakatime.com
                   plugin_wakatime_user: frz
+                  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
