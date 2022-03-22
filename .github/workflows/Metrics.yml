@@ -21,12 +21,14 @@ jobs:
                   token: ${{ secrets.GH_TOKEN }}
 
                   # Options
-                  template: classic
-                  config_timezone: Europe/London
-                  plugin_wakatime: yes
-                  plugin_wakatime_days: 365
-                  plugin_wakatime_limit: 7
-                  plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-                  plugin_wakatime_url: https://wakatime.com
-                  plugin_wakatime_user: frz
-                  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+                    user: liamfrazer
+                    template: classic
+                    base: header
+                    config_timezone: Europe/London
+                    plugin_wakatime: yes
+                    plugin_wakatime_days: 365
+                    plugin_wakatime_limit: 5
+                    plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+                    plugin_wakatime_url: https://wakatime.com
+                    plugin_wakatime_user: frz
+                    plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
