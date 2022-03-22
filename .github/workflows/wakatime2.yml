@@ -5,6 +5,8 @@ on:
         # Runs every hour
         - cron: "0 */1 * * *"
     workflow_dispatch:
+    push:
+        branches: [main]
 jobs:
     update-readme:
         name: Update Readme with Metrics
