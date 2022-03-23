@@ -10,7 +10,6 @@
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 
 </div>
 
@@ -19,30 +18,31 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2047%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 12 hrs 10 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   82.31% 
-YAML                     2 hrs 20 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.87% 
-JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.55% 
+💬 Programming Languages:
+Markdown                 12 hrs 10 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   82.31%
+YAML                     2 hrs 20 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.87%
+JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.55%
 XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.28%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  14 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  13 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.97% 
+💻 Operating System:
+Windows                  13 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.97%
 Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.03%
 
 ```
 
+Last Updated on 23/03/2022 18:09:56 UTC
 
- Last Updated on 23/03/2022 18:09:56 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -77,21 +77,15 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </div>
 
-<div align="center">
+-   2022 - Progressing through my journey of becoming a Web Developer.
 
-### 🥅 2022 🥅
+<br />
 
-</div>
+-   2023 - Competent in picking up new programming languages.
 
--   Progressing through my journey of becoming a Web Developer.
+<br />
 
-<div align="center">
-
-### 🏆 2027 🏆
-
-</div>
-
--   Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
+-   2027 - Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
 
 </td></tr></table>
 
@@ -108,7 +102,6 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Currently Studying
 
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=white&color=1572B6)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=white&color=F7DF1E)][javascript]
 
 </div>
@@ -118,6 +111,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Languages / Tools
 
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=white&color=1572B6)][css3]
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=white&color=6DA55F)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=white&color=61DAFB)][react]
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=363636)][solidity]
@@ -139,7 +133,10 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=white&color=F05033)][git]
 [![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=white&color=20232A)][github]
 [![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=white&color=8B77DE)][obsidian]
-[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=white&color=FFFFFF)][obsidian]
+[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=white&color=FFFFFF)][notion]
+[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=white&color=44A2D2)][ibmwatson]
+[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=white&color=FA722D)][liveperson]
+[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=white&color=58C047)][servicenow]
 
 </div>
 </td></tr>
@@ -151,8 +148,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Current Courses
 
-[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=white&color=E3B465)][top]
 [![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]
+[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=white&color=E3B465)][top]
 
 </div>
 </td><td valign="top" width="33%">
@@ -188,11 +185,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  2,025 Karma Points           
-🌸  Completed 23 tasks today           
-🗓  Completed 86 tasks this week           
-✅  Completed 101 tasks so far           
-⏳  Longest streak is 4 days
+
+🏆 2,025 Karma Points  
+🌸 Completed 23 tasks today  
+🗓 Completed 86 tasks this week  
+✅ Completed 101 tasks so far  
+⏳ Longest streak is 4 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
