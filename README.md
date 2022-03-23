@@ -18,9 +18,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue)
 
-In The Last Year I Spent My Time On** 
+**In The Last Year I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
@@ -41,7 +41,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 23/03/2022 22:28:32 UTC
+ Last Updated on 23/03/2022 22:37:33 UTC
 <!--END_SECTION:waka-->
 </div>
 
