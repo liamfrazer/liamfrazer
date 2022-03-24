@@ -18,8 +18,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue)
-
 **In The Last Year I Spent My Time On** 
 
 ```text
@@ -41,7 +39,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 23/03/2022 23:08:18 UTC
+ Last Updated on 24/03/2022 00:35:02 UTC
 <!--END_SECTION:waka-->
 </div>
 
