@@ -18,31 +18,32 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue)
 
-**In The Last Year I Spent My Time On** 
+**In The Last Year I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 12 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.19% 
-YAML                     2 hrs 28 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46% 
-Python                   44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.6% 
-JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.43% 
+💬 Programming Languages:
+Markdown                 12 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.19%
+YAML                     2 hrs 28 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46%
+Python                   44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.6%
+JavaScript               13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.43%
 XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.26%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  16 hrs 3 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  15 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.44% 
+💻 Operating System:
+Windows                  15 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.44%
 Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.56%
 
 ```
 
+Last Updated on 24/03/2022 16:10:56 UTC
 
- Last Updated on 24/03/2022 16:10:56 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -64,7 +65,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br />
 
--   🛠️ Supported the implementation and Beta Testing of several automation projects to improve customer experience.
+-   🛠️ Supported the implementation and testing of several automation workflows to improve customer experience and achieve KPIs.
 
 <br />
 
@@ -102,7 +103,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Currently Studying
 
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=white&color=F7DF1E)][javascript]
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 
 </div>
 </td><td valign="top" width="33%">
@@ -111,13 +112,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Languages / Tools
 
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=white&color=1572B6)][css3]
-[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=white&color=6DA55F)][node.js]
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=white&color=61DAFB)][react]
-[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=white&color=363636)][solidity]
-[![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=white&color=20232A)][next.js]
-[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=white&color=00599C)][c]
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=white&color=ffdd54)][python]
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
+[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
+[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
+[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
+[![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
+[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
 
 </div>
 </td><td valign="top" width="33%">
@@ -126,17 +127,17 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Known Languages / Tools
 
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=white&color=E34F26)][html5]
-[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=white&color=000000)][markdown]
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=white&color=0078D7)][vscode]
-[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=white&color=0A0FFF)][jira]
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=white&color=F05033)][git]
-[![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=white&color=20232A)][github]
-[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=white&color=8B77DE)][obsidian]
-[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=white&color=FFFFFF)][notion]
-[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=white&color=44A2D2)][ibmwatson]
-[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=white&color=FA722D)][liveperson]
-[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=white&color=58C047)][servicenow]
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
+[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
+[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
+[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
+[![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
+[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
+[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=FFFFFF&color=blue)][notion]
+[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
+[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
+[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
 
 </div>
 </td></tr>
@@ -148,8 +149,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Current Courses
 
-[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][cjs]
-[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=white&color=E3B465)][top]
+[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
+[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
 
 </div>
 </td><td valign="top" width="33%">
@@ -158,13 +159,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Courses
 
-[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=white&color=F9F9F9)][fso2022]
-[![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50x]
-[![](https://img.shields.io/badge/Course-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=white&color=02262B)][cs50w]
-[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][nftweb]
-[![](https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][soliditycourse]
-[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][automateboring]
-[![](https://img.shields.io/badge/Course-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=white&color=A435F0)][selftaught]
+[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
+[![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
+[![](https://img.shields.io/badge/Course-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
+[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
+[![](https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
+[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]
+[![](https://img.shields.io/badge/Course-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]
 
 </div>
 </td><td valign="top" width="33%">
@@ -173,8 +174,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Completed Courses
 
-[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=white&color=0056D2)][lhtl]
-[![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=white&color=258FFA)][mta]
+[![](https://img.shields.io/badge/Course-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]
+[![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
 
 </div>
 </td></tr>
@@ -185,11 +186,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  2,391 Karma Points           
-🌸  Completed 19 tasks today           
-🗓  Completed 115 tasks this week           
-✅  Completed 130 tasks so far           
-⏳  Longest streak is 5 days
+
+🏆 2,391 Karma Points  
+🌸 Completed 19 tasks today  
+🗓 Completed 115 tasks this week  
+✅ Completed 130 tasks so far  
+⏳ Longest streak is 5 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
