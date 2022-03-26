@@ -18,29 +18,30 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-17%20hrs%2045%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 12 hrs 49 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.98% 
-YAML                     2 hrs 28 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33% 
-JavaScript               59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.71% 
-Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.69% 
+💬 Programming Languages:
+Markdown                 12 hrs 49 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.98%
+YAML                     2 hrs 28 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33%
+JavaScript               59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.71%
+Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.69%
 XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.24%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  17 hrs 19 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  16 hrs 25 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.85% 
+💻 Operating System:
+Windows                  16 hrs 25 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.85%
 Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.15%
 
 ```
 
+Last Updated on 26/03/2022 13:14:21 UTC
 
- Last Updated on 26/03/2022 13:14:21 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -124,6 +125,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Known Languages / Tools
 
+[![](https://img.shields.io/badge/Code-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
 [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
@@ -183,11 +185,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  2,635 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 145 tasks this week           
-✅  Completed 160 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 2,635 Karma Points  
+🌸 Completed 0 tasks today  
+🗓 Completed 145 tasks this week  
+✅ Completed 160 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
@@ -247,5 +251,6 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [obsidian]: https://github.com/liamfrazer/Obsidian-Notes
 [fso2022]: https://fullstackopen.com/en/
 [markdown]: https://daringfireball.net/projects/markdown/
+[spel]: https://docs.spring.io/spring-framework/docs/4.3.12.RELEASE/spring-framework-reference/html/expressions.html
 
 <!-- End Links Section -->
