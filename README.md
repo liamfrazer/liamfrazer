@@ -184,7 +184,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  2,759 Karma Points           
+🏆  2,807 Karma Points           
 🌸  Completed 10 tasks today           
 🗓  Completed 10 tasks this week           
 ✅  Completed 178 tasks so far           
