@@ -183,7 +183,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- TODO-IST:START -->
 🏆  3,716 Karma Points           
-💾  Completed 13 tasks today           
+💾  Completed 0 tasks today           
 🗓  Completed 13 tasks this week           
 ✅  Completed 308 tasks so far           
 ⏳  Longest streak is 12 days
