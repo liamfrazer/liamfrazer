@@ -18,29 +18,30 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-20%20hrs%2028%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 12 hrs 59 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.46% 
-JavaScript               3 hrs 35 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.5% 
-YAML                     2 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.84% 
-Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.81% 
+💬 Programming Languages:
+Markdown                 12 hrs 59 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.46%
+JavaScript               3 hrs 35 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.5%
+YAML                     2 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.84%
+Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.81%
 JSON                     13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.11%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  20 hrs 28 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  19 hrs 35 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.64% 
+💻 Operating System:
+Windows                  19 hrs 35 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.64%
 Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.36%
 
 ```
 
+Last Updated on 05/06/2022 19:07:37 UTC
 
- Last Updated on 05/06/2022 19:07:37 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -100,6 +101,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Currently Studying
 
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 
 </div>
@@ -109,7 +112,6 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Languages / Tools
 
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
@@ -124,8 +126,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Known Languages / Tools
 
+[![](https://img.shields.io/badge/Tasks-ToDoIst-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
 [![](https://img.shields.io/badge/Code-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
 [![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
@@ -147,8 +149,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Current Courses
 
-[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
-[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
+[![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
 
 </div>
 </td><td valign="top" width="33%">
@@ -158,7 +159,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Future Courses
 
 [![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
-[![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
+[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
+[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
 [![](https://img.shields.io/badge/Course-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
 [![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
 [![](https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
@@ -184,11 +186,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  6,642 Karma Points           
-💾  Completed 26 tasks today           
-🗓  Completed 106 tasks this week           
-✅  Completed 692 tasks so far           
-⏳  Longest streak is 18 days
+
+🏆 6,642 Karma Points  
+💾 Completed 26 tasks today  
+🗓 Completed 106 tasks this week  
+✅ Completed 692 tasks so far  
+⏳ Longest streak is 18 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
@@ -249,5 +253,6 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [fso2022]: https://fullstackopen.com/en/
 [markdown]: https://daringfireball.net/projects/markdown/
 [spel]: https://docs.spring.io/spring-framework/docs/4.3.12.RELEASE/spring-framework-reference/html/expressions.html
+[todoist]: https://todoist.com/
 
 <!-- End Links Section -->
