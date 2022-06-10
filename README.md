@@ -95,9 +95,6 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 ## Currently Studying
 
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
 [![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
 
@@ -108,6 +105,9 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 ## Future Languages / Tools
 
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
@@ -183,11 +183,13 @@ Last Updated on 10/06/2022 21:07:43 UTC
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  6,865 Karma Points           
-💾  Completed 0 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 707 tasks so far           
-⏳  Longest streak is 18 days
+
+🏆 6,865 Karma Points  
+💾 Completed 0 tasks today  
+🗓 Completed 15 tasks this week  
+✅ Completed 707 tasks so far  
+⏳ Longest streak is 18 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
