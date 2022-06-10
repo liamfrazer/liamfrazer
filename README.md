@@ -9,7 +9,6 @@
 <br />
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
-[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
 
 </div>
 
@@ -18,29 +17,30 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-20%20hrs%2048%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 13 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.99% 
-JavaScript               3 hrs 35 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.23% 
-YAML                     2 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.65% 
-Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.74% 
+💬 Programming Languages:
+Markdown                 13 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.99%
+JavaScript               3 hrs 35 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.23%
+YAML                     2 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.65%
+Python                   59 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.74%
 JSON                     13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.09%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  20 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
-💻 Operating System: 
-Windows                  19 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.71% 
+💻 Operating System:
+Windows                  19 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.71%
 Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.29%
 
 ```
 
+Last Updated on 10/06/2022 20:09:10 UTC
 
- Last Updated on 10/06/2022 20:09:10 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -75,7 +75,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </div>
 
--   2022 - Progressing through my journey of becoming a Web Developer.
+-   2022 - Progressing through my journey of becoming a Software Engineer.
 
 <br />
 
@@ -87,11 +87,6 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </td></tr></table>
 
-<div align="center">
-
-[<img align="center" alt="Notion" src="https://img.shields.io/badge/Track_my_Course_Progression_via_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />][notion]
-
-</div>
 <table>
 <!-- Start Knowledge Section -->
 <tr><td valign="top" width="33%">
@@ -103,6 +98,8 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
 [![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
+[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
+[![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal&logoColor=F7DF1E&color=blue)][unrealcourse]
 
 </div>
 </td><td valign="top" width="33%">
@@ -185,11 +182,13 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  6,865 Karma Points           
-💾  Completed 0 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 707 tasks so far           
-⏳  Longest streak is 18 days
+
+🏆 6,865 Karma Points  
+💾 Completed 0 tasks today  
+🗓 Completed 15 tasks this week  
+✅ Completed 707 tasks so far  
+⏳ Longest streak is 18 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
@@ -251,5 +250,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [markdown]: https://daringfireball.net/projects/markdown/
 [spel]: https://docs.spring.io/spring-framework/docs/4.3.12.RELEASE/spring-framework-reference/html/expressions.html
 [todoist]: https://todoist.com/
+[c++]: https://cplusplus.com
+[unrealcourse]: https://www.udemy.com/course/unrealcourse/
 
 <!-- End Links Section -->
