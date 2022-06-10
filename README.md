@@ -146,7 +146,7 @@ Last Updated on 10/06/2022 21:07:43 UTC
 ## Current Courses
 
 [![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
-[![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealcourse]
+[![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
 
 </div>
 </td><td valign="top" width="33%">
