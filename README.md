@@ -99,7 +99,7 @@ Last Updated on 10/06/2022 20:09:10 UTC
 [![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
-[![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal&logoColor=F7DF1E&color=blue)][unrealcourse]
+[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealcourse]
 
 </div>
 </td><td valign="top" width="33%">
@@ -146,6 +146,7 @@ Last Updated on 10/06/2022 20:09:10 UTC
 ## Current Courses
 
 [![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
+[![](https://img.shields.io/badge/Course-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealcourse]
 
 </div>
 </td><td valign="top" width="33%">
