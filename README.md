@@ -83,7 +83,7 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 <br />
 
--   2027 - Software Engineer specialising in Blockchains, Smart Contracts & Full Stack Web Development.
+-   2027 - Software Engineer specialising in Games Development, Blockchains, Smart Contracts & Full Stack Web Development.
 
 </td></tr></table>
 
@@ -95,8 +95,14 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 ## Currently Studying
 
-[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
-[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
+[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
+[![](https://img.shields.io/badge/Engine-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
+[![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
+[![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
 
 </div>
 </td><td valign="top" width="33%">
@@ -105,15 +111,15 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 ## Future Languages / Tools
 
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
+[![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]
+[![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=lua&logoColor=#239120&color=blue)][c#]
+[![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
+[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
+[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
 [![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
-[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
 
 </div>
 </td><td valign="top" width="33%">
@@ -122,7 +128,7 @@ Last Updated on 10/06/2022 21:07:43 UTC
 
 ## Known Languages / Tools
 
-[![](https://img.shields.io/badge/Tasks-ToDoIst-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
+[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
 [![](https://img.shields.io/badge/Code-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
@@ -146,6 +152,7 @@ Last Updated on 10/06/2022 21:07:43 UTC
 ## Current Courses
 
 [![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
+[![](https://img.shields.io/badge/Course-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
 [![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
 
 </div>
@@ -183,11 +190,13 @@ Last Updated on 10/06/2022 21:07:43 UTC
 ## Todoist Tasks
 
 <!-- TODO-IST:START -->
-🏆  6,865 Karma Points           
-💾  Completed 7 tasks today           
-🗓  Completed 22 tasks this week           
-✅  Completed 714 tasks so far           
-⏳  Longest streak is 18 days
+
+🏆 6,865 Karma Points  
+💾 Completed 7 tasks today  
+🗓 Completed 22 tasks this week  
+✅ Completed 714 tasks so far  
+⏳ Longest streak is 18 days
+
 <!-- TODO-IST:END -->
 </div>
 </td>
@@ -238,6 +247,7 @@ Last Updated on 10/06/2022 21:07:43 UTC
 [python]: https://www.python.org/
 [cs50x]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/
 [cs50w]: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=5c44c1c1d4f5a81bb7d4170208bb07b1&position=1/
+[cs50g]: https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)/
 [notion]: https://liamfrazer.notion.site/Software-Engineer-Journey-0c3796b414184465aa1aa8fda6ea32a1/
 [nftweb]: https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/
@@ -252,5 +262,11 @@ Last Updated on 10/06/2022 21:07:43 UTC
 [c++]: https://cplusplus.com
 [unrealcourse]: https://www.udemy.com/course/unrealcourse/
 [unrealengine]: https://www.unrealengine.com/en-US/unreal-engine-5
+[unity]: https://unity.com
+[lua]: https://www.lua.org
+[scratch]: https://scratch.mit.edu
+[sql]: https://en.wikipedia.org/wiki/SQL
+[flask]: https://flask.palletsprojects.com
+[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
- <!-- End Links Section -->
+<!-- End Links Section -->
