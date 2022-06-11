@@ -99,7 +99,7 @@ Mac                      53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
-[![](https://img.shields.io/badge/Engine-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
+[![](https://img.shields.io/badge/Code-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
 [![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
 [![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
 
