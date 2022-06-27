@@ -11,37 +11,35 @@
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 
 </div>
-
 <!-- End Title Section -->
-
 <div align="center">
-
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-34%20hrs%2047%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 18 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.31% 
-C                        7 hrs 57 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.86% 
-JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.3% 
-YAML                     2 hrs 37 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.56% 
+💬 Programming Languages:
+Markdown                 18 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.31%
+C                        7 hrs 57 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.86%
+JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.3%
+YAML                     2 hrs 37 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.56%
 Python                   59 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.83%
 
-🔥 Editors: 
-VS Code                  34 hrs 38 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.55% 
+🔥 Editors:
+VS Code                  34 hrs 38 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.55%
 Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.45%
 
-💻 Operating System: 
-Windows                  29 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   85.86% 
-Linux                    4 hrs 1 min         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.58% 
+💻 Operating System:
+Windows                  29 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   85.86%
+Linux                    4 hrs 1 min         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.58%
 Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.56%
 
 ```
 
+Last Updated on 27/06/2022 16:11:19 UTC
 
- Last Updated on 27/06/2022 16:11:19 UTC
 <!--END_SECTION:waka-->
 </div>
 
@@ -86,7 +84,33 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 -   2027 - Software Engineer specialising in Games Development, Blockchains, Smart Contracts & Full Stack Web Development.
 
-</td></tr></table>
+</td></tr>
+<tr><td valign="top" width="50%">
+<div align="center">
+
+## Todoist Tasks
+
+<!-- TODO-IST:START -->
+
+🏆 8,159 Karma Points  
+💾 Completed 13 tasks today  
+🗓 Completed 13 tasks this week  
+✅ Completed 935 tasks so far  
+⏳ Longest streak is 18 days
+
+<!-- TODO-IST:END -->
+
+</td>
+<td valign="top" width="50%">
+<div align="center">
+
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+</tr>
+</table>
 
 <table>
 <!-- Start Knowledge Section -->
@@ -96,14 +120,7 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Currently Studying
 
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
-[![](https://img.shields.io/badge/Code-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
-[![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
-[![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
 
 </div>
 </td><td valign="top" width="33%">
@@ -112,15 +129,20 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Languages / Tools
 
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
+[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
+[![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
+[![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
 [![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]
 [![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=lua&logoColor=#239120&color=blue)][c#]
 [![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
 [![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
-[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
 [![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
+[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
 
 </div>
 </td><td valign="top" width="33%">
@@ -129,18 +151,19 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Known Languages / Tools
 
-[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Code-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
 [![](https://img.shields.io/badge/Code-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
+[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
 [![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
 [![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
 [![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
-[![](https://img.shields.io/badge/Kanban-Notion-informational?style=flat&logo=notion&idea&logoColor=FFFFFF&color=blue)][notion]
-[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
-[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
 [![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
+[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
+[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
 
 </div>
 </td></tr>
@@ -153,8 +176,6 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Current Courses
 
 [![](https://img.shields.io/badge/Course-Harvard_CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
-[![](https://img.shields.io/badge/Course-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
-[![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
 
 </div>
 </td><td valign="top" width="33%">
@@ -163,6 +184,8 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Future Courses
 
+[![](https://img.shields.io/badge/Course-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
+[![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
 [![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
 [![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
 [![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
@@ -183,41 +206,9 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![](https://img.shields.io/badge/Course-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
 
 </div>
-</td></tr>
-<tr>
-<td valign="top" width="33%">
-<div align="center">
-
-## Todoist Tasks
-
-<!-- TODO-IST:START -->
-🏆  8,159 Karma Points           
-💾  Completed 13 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 935 tasks so far           
-⏳  Longest streak is 18 days
-<!-- TODO-IST:END -->
-</div>
 </td>
-
-<td valign="top" width="33%">
-<div align="center">
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamfrazer&layout=compact&theme=dark&hide_title=1)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</td>
-<td valign="top" width="33%">
-<div align="center">
-
-## Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-</tr></table>
+</tr>
+</table>
 
 <!-- End Courses Section -->
 
