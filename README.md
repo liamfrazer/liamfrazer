@@ -16,7 +16,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-35%20hrs%2040%20mins-blue)
 
 ```text
@@ -41,7 +40,7 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 28/06/2022 06:10:51 UTC
+ Last Updated on 28/06/2022 07:08:15 UTC
 <!--END_SECTION:waka-->
 </div>
 
