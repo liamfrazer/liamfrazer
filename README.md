@@ -12,8 +12,11 @@
 
 </div>
 <!-- End Title Section -->
+
 <div align="center">
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-35%20hrs%2040%20mins-blue)
 
 ```text
