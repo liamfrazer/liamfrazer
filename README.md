@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-<br />
-
-[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
-
-</div>
 <!-- End Title Section -->
 
 <table>
@@ -57,14 +51,50 @@
 -   2027 - Software Engineer specialising in Games Development, Blockchains, Smart Contracts & Full Stack Web Development.
 
 </td></tr>
+<tr>
+<tr><td valign="top" width="50%">
+<div align="center">
 
+## <code>Studying</code>
+
+[![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
+
+[![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+
+[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
+[![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
+
+</td>
+<td valign="top" width="50%">
+<div align="center">
+
+## <code>Experience</code>
+
+[![](https://img.shields.io/badge/Coursera-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]
+[![](https://img.shields.io/badge/Microsoft-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
+
+[![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
+[![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
+[![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
+
+[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
+[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
+[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
+[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
+[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
+[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
+[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
+
+</td>
+</tr>
 </table>
 <table>
 
 <tr><td valign="top" width="33%">
 <div align="center">
 
-## <code>Software Engineer Roadmap</code>
+## <code>Software Engineer Future Roadmap</code>
 
 [![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
 [![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
@@ -93,9 +123,10 @@
 
 </div>
 </td>
-<tr>
-<tr>
+</tr>
 
+<tr>
+<tr>
 <td valign="top" width="50%">
 <div align="center">
 
@@ -128,88 +159,14 @@ Last Updated on 03/07/2022 14:08:33 UTC
 
 <!--END_SECTION:waka-->
 </div>
+</td>
 </tr>
 
 </table>
 
 <table>
-
-<tr><td valign="top" width="50%">
-<div align="center">
-
-### <code>Studying</code>
-
-</td>
-<td valign="top" width="50%">
-<div align="center">
-
-### <code>Experience</code>
-
-</td>
-</tr>
-<tr></tr>
-<tr>
-
-<td valign="top" width="50%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
-
-</td>
-
-<td valign="top" width="50%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
-[![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
-[![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
-
-</td>
-</tr>
-<tr>
 <tr>
 <td valign="top" width="33%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
-[![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
-[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
-
-</td>
-<td valign="top" width="33%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
-[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
-[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
-[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
-[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
-[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
-
-</td>
-</tr>
-
-<tr>
-<tr>
-<td valign="top" width="50%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
-
-</td>
-<td valign="top" width="50%">
-<div align="center">
-
-[![](https://img.shields.io/badge/Coursera-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]
-[![](https://img.shields.io/badge/Microsoft-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
-
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td valign="top" width="50%">
 <div align="center">
 
 ### <code>Spotify</code>
@@ -218,7 +175,7 @@ Last Updated on 03/07/2022 14:08:33 UTC
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <div align="center">
 
 ### <code>Todoist Tasks</code>
@@ -238,6 +195,14 @@ Last Updated on 03/07/2022 14:08:33 UTC
 </td>
 <td valign="top" width="33%">
 <div align="center">
+
+### <code>Websites</code>
+
+[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
+
+[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+
+</div>
 
 </td>
 </tr>
