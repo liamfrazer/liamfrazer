@@ -224,13 +224,11 @@ Last Updated on 03/07/2022 14:08:33 UTC
 ### <code>Todoist Tasks</code>
 
 <!-- TODO-IST:START -->
-
-🏆 8,551 Karma Points  
-💾 Completed 6 tasks today  
-🗓 Completed 148 tasks this week  
-✅ Completed 1,070 tasks so far  
-⏳ Longest streak is 18 days
-
+🏆  8,551 Karma Points           
+💾  Completed 6 tasks today           
+🗓  Completed 148 tasks this week           
+✅  Completed 1,070 tasks so far           
+⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
 </td>
