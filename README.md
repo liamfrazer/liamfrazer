@@ -51,13 +51,11 @@ Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### Studying
 
 <!-- TODO-IST:START -->
-
-🏆 8,551 Karma Points  
-💾 Completed 6 tasks today  
-🗓 Completed 148 tasks this week  
-✅ Completed 1,070 tasks so far  
-⏳ Longest streak is 18 days
-
+🏆  8,551 Karma Points           
+💾  Completed 6 tasks today           
+🗓  Completed 148 tasks this week           
+✅  Completed 1,070 tasks so far           
+⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
 </td>
