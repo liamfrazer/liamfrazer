@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## About Me
+## <code>About Me</code>
 
 </div>
 
@@ -42,7 +42,7 @@
 <td valign="top" width="50%">
 <div align="center">
 
-## Goals
+## <code>Goals</code>
 
 </div>
 
@@ -58,39 +58,45 @@
 
 </td></tr>
 
-<tr>
-
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-<div align="center">
-
-### Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-
-<td valign="top" width="50%">
-<div align="center">
-
-### Todoist Tasks
-
-<!-- TODO-IST:START -->
-🏆  8,551 Karma Points           
-💾  Completed 6 tasks today           
-🗓  Completed 148 tasks this week           
-✅  Completed 1,070 tasks so far           
-⏳  Longest streak is 18 days
-<!-- TODO-IST:END -->
-
-</td>
-</tr>
-
 </table>
-<!-- End Title Section -->
+<table>
 
+<tr><td valign="top" width="33%">
+<div align="center">
+
+## <code>Software Engineer Roadmap</code>
+
+[![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
+[![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
+[![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
+[![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
+[![](https://img.shields.io/badge/Language-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
+[![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]
+[![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=#239120&color=blue)][c#]
+[![](https://img.shields.io/badge/Language-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
+[![](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
+[![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
+[![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
+[![](https://img.shields.io/badge/Language-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
+[![](https://img.shields.io/badge/Game_Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
+[![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
+[![](https://img.shields.io/badge/Harvard-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
+[![](https://img.shields.io/badge/Udemy-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
+[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
+[![](https://img.shields.io/badge/Udemy-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
+[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
+[![](https://img.shields.io/badge/Harvard-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
+[![](https://img.shields.io/badge/Udemy-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
+[![](https://img.shields.io/badge/Udemy-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
+[![](https://img.shields.io/badge/Udemy-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]
+[![](https://img.shields.io/badge/Udemy-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]
+
+</div>
+</td>
+<tr>
+<tr>
+
+<td valign="top" width="50%">
 <div align="center">
 
 <!--START_SECTION:waka-->
@@ -122,40 +128,57 @@ Last Updated on 03/07/2022 10:09:31 UTC
 
 <!--END_SECTION:waka-->
 </div>
+</tr>
+
+</table>
+
 <table>
+
 <tr><td valign="top" width="50%">
 <div align="center">
 
-### Studying
+### <code>Studying</code>
 
 </td>
 <td valign="top" width="50%">
 <div align="center">
 
-###### Languages
-
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Code-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
-[![](https://img.shields.io/badge/Code-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
-[![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
+### <code>Experience</code>
 
 </td>
 </tr>
 <tr></tr>
 <tr>
+
 <td valign="top" width="50%">
 <div align="center">
 
-###### Tools
+[![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+
+</td>
+
+<td valign="top" width="50%">
+<div align="center">
+
+[![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
+[![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
+[![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
+[![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
+
+</td>
+</tr>
+<tr>
+<tr>
+<td valign="top" width="33%">
+<div align="center">
 
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
-[![](https://img.shields.io/badge/Repos-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
+[![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
+[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
 
-<td valign="top" width="50%">
+</td>
+<td valign="top" width="33%">
 <div align="center">
-
-###### Tools
 
 [![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
 [![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
@@ -166,20 +189,17 @@ Last Updated on 03/07/2022 10:09:31 UTC
 
 </td>
 </tr>
-<tr></tr>
+
+<tr>
 <tr>
 <td valign="top" width="50%">
 <div align="center">
-
-###### Courses
 
 [![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
 
 </td>
 <td valign="top" width="50%">
 <div align="center">
-
-###### Courses
 
 [![](https://img.shields.io/badge/Coursera-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]
 [![](https://img.shields.io/badge/Microsoft-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
@@ -188,37 +208,37 @@ Last Updated on 03/07/2022 10:09:31 UTC
 </tr>
 </table>
 <table>
-<tr><td valign="top" width="33%">
+<tr>
+<td valign="top" width="50%">
 <div align="center">
 
-## Software Engineer Roadmap
+### <code>Spotify</code>
 
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
-[![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
-[![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
-[![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]
-[![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=lua&logoColor=#239120&color=blue)][c#]
-[![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
-[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
-[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
-[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
-[![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
-[![](https://img.shields.io/badge/Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
-[![](https://img.shields.io/badge/Course-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
-[![](https://img.shields.io/badge/Course-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
-[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
-[![](https://img.shields.io/badge/Course-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
-[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
-[![](https://img.shields.io/badge/Course-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
-[![](https://img.shields.io/badge/Course-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
-[![](https://img.shields.io/badge/Course-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
-[![](https://img.shields.io/badge/Course-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]
-[![](https://img.shields.io/badge/Course-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
+</td>
+
+<td valign="top" width="50%">
+<div align="center">
+
+### <code>Todoist Tasks</code>
+
+<!-- TODO-IST:START -->
+
+🏆 8,551 Karma Points  
+💾 Completed 6 tasks today  
+🗓 Completed 148 tasks this week  
+✅ Completed 1,070 tasks so far  
+⏳ Longest streak is 18 days
+
+<!-- TODO-IST:END -->
+
+</td>
+
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
 </td>
 </tr>
 </table>
