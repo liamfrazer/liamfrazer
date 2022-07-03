@@ -12,6 +12,39 @@
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 
 </div>
+<!-- End Title Section -->
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-43%20hrs%2052%20mins-blue)
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages:
+Markdown                 19 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.35%
+C                        13 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.85%
+JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.54%
+YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.27%
+Python                   59 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.35%
+
+🔥 Editors:
+VS Code                  41 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.63%
+Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.37%
+
+💻 Operating System:
+Windows                  31 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.38%
+Linux                    9 hrs 51 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.49%
+Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.13%
+
+```
+
+Last Updated on 03/07/2022 12:13:39 UTC
+
+<!--END_SECTION:waka-->
+</div>
 
 <table>
 
@@ -129,21 +162,15 @@ Last Updated on 03/07/2022 10:09:31 UTC
 
 ### Studying
 
-<td valign="top" width="50%">
-<div align="center">
+<!-- TODO-IST:START -->
 
-### Experience
+🏆 8,551 Karma Points  
+💾 Completed 6 tasks today  
+🗓 Completed 148 tasks this week  
+✅ Completed 1,070 tasks so far  
+⏳ Longest streak is 18 days
 
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td valign="top" width="50%">
-<div align="center">
-
-###### Languages
-
-[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+<!-- TODO-IST:END -->
 
 </td>
 <td valign="top" width="50%">
