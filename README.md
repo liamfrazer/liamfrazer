@@ -17,141 +17,31 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-43%20hrs%2052%20mins-blue)
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages:
-Markdown                 19 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.35%
-C                        13 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.85%
-JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.54%
-YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.27%
-Python                   59 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.35%
-
-🔥 Editors:
-VS Code                  41 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.63%
-Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.37%
-
-💻 Operating System:
-Windows                  31 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.38%
-Linux                    9 hrs 51 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.49%
-Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.13%
-
-```
-
-Last Updated on 03/07/2022 12:13:39 UTC
-
-<!--END_SECTION:waka-->
-</div>
-
-<table>
-
-<tr>
-<td valign="top" width="50%">
-
-<div align="center">
-
-## About Me
-
-</div>
-
--   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
-
-<br />
-
--   🤖 Specialising in Conversation Design, IBM Watson Assistant & LivePerson Administration for just under 5 years.
-
-<br />
-
--   🛠️ Supported the implementation and testing of several automation workflows/APIs to improve customer experience and achieve KPIs.
-
-<br />
-
-</td>
-
-<td valign="top" width="50%">
-<div align="center">
-
-## Goals
-
-</div>
-
--   2022 - Progressing through my journey of becoming a Software Engineer.
-
-<br />
-
--   2023 - Competent in picking up new programming languages.
-
-<br />
-
--   2027 - Software Engineer specialising in Games Development, Blockchains, Smart Contracts & Full Stack Web Development.
-
-</td></tr>
-
-<tr>
-
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-<div align="center">
-
-### Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-
-<td valign="top" width="50%">
-<div align="center">
-
-### Todoist Tasks
-
-<!-- TODO-IST:START -->
-🏆  8,551 Karma Points           
-💾  Completed 6 tasks today           
-🗓  Completed 148 tasks this week           
-✅  Completed 1,070 tasks so far           
-⏳  Longest streak is 18 days
-<!-- TODO-IST:END -->
-
-</td>
-</tr>
-
-</table>
-<!-- End Title Section -->
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-41%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-44%20hrs%2034%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages:
-Markdown                 19 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.35%
-C                        13 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.85%
-JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.54%
-YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.27%
+💬 Programming Languages: 
+Markdown                 19 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.35% 
+C                        13 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.85% 
+JavaScript               3 hrs 35 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.54% 
+YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.27% 
 Python                   59 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.35%
 
-🔥 Editors:
-VS Code                  41 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.63%
+🔥 Editors: 
+VS Code                  41 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.63% 
 Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.37%
 
-💻 Operating System:
-Windows                  31 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.38%
-Linux                    9 hrs 51 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.49%
+💻 Operating System: 
+Windows                  31 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.38% 
+Linux                    9 hrs 51 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.49% 
 Mac                      53 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.13%
 
 ```
 
-Last Updated on 03/07/2022 10:09:31 UTC
 
+ Last Updated on 03/07/2022 13:18:42 UTC
 <!--END_SECTION:waka-->
 </div>
 <table>
