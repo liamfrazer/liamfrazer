@@ -180,11 +180,11 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### <code>Todoist Tasks</code>
 
 <!-- TODO-IST:START -->
-🏆  8,722 Karma Points           
-💾  Completed 0 tasks today           
-🗓  Completed 48 tasks this week           
-✅  Completed 1,089 tasks so far           
-⏳  Longest streak is 20 days
+🏆  8,735 Karma Points           
+💾  Completed 29 tasks today           
+🗓  Completed 46 tasks this week           
+✅  Completed 1,087 tasks so far           
+⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
 </td>
