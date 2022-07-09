@@ -1,12 +1,8 @@
-<!-- Start Title Section -->
-
 <div align="center">
 
 <a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=DB5631&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 
 </div>
-
-<!-- End Title Section -->
 
 <table>
 
@@ -60,9 +56,12 @@
 [![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
 
 [![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
+[![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
 
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
-[![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
+[![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&idea&logoColor=CB96F8&color=blue)][vscode]
+[![](https://img.shields.io/badge/DevOps-GIT-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
+[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
 
 </td>
 <td valign="top" width="50%">
@@ -78,13 +77,13 @@
 [![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
 [![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
 
-[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
 [![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
 [![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
 [![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
 [![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
 [![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
 [![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
+[![](https://img.shields.io/badge/Flashcards-Anki-informational?style=flat&logo=anki&idea&logoColor=9B9B9B&color=blue)][anki]
 
 </td>
 </tr>
@@ -96,7 +95,6 @@
 
 ## <code>Software Engineer Future Roadmap</code>
 
-[![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
 [![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
 [![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
 [![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
@@ -110,16 +108,18 @@
 [![](https://img.shields.io/badge/Language-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
 [![](https://img.shields.io/badge/Game_Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
 [![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
-[![](https://img.shields.io/badge/Harvard-Harvard_CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
+[![](https://img.shields.io/badge/Harvard-CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
 [![](https://img.shields.io/badge/Udemy-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
 [![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
 [![](https://img.shields.io/badge/Udemy-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
 [![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
-[![](https://img.shields.io/badge/Harvard-Harvard_CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
+[![](https://img.shields.io/badge/Harvard-CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
 [![](https://img.shields.io/badge/Udemy-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
 [![](https://img.shields.io/badge/Udemy-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
 [![](https://img.shields.io/badge/Udemy-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]
 [![](https://img.shields.io/badge/Udemy-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]
+[![](https://img.shields.io/badge/Udemy-Beginning_C++_Programming-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][beginningc++]
+[![](https://img.shields.io/badge/GameDev.tv-Unreal_5.0_C++_Developer-informational?style=flat&logo=gamedev&idea&logoColor=A435F0&color=blue)][gamedev.tv]
 
 </div>
 </td>
@@ -131,31 +131,32 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-49%20hrs%207%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 24 hrs 39 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.22% 
-C                        14 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.28% 
-JavaScript               3 hrs 35 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.3% 
-YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.36% 
+💬 Programming Languages:
+Markdown                 24 hrs 39 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.22%
+C                        14 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.28%
+JavaScript               3 hrs 35 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.3%
+YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.36%
 Python                   2 hrs 13 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.53%
 
-🔥 Editors: 
-VS Code                  48 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.68% 
+🔥 Editors:
+VS Code                  48 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.68%
 Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.32%
 
-💻 Operating System: 
-Windows                  36 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.34% 
-Linux                    10 hrs 56 mins      ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.28% 
+💻 Operating System:
+Windows                  36 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.34%
+Linux                    10 hrs 56 mins      ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.28%
 Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.38%
 
 ```
 
+Last Updated on 09/07/2022 11:07:21 UTC
 
- Last Updated on 09/07/2022 11:07:21 UTC
 <!--END_SECTION:waka-->
 </div>
 </td>
@@ -168,7 +169,7 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <td valign="top" width="33%">
 <div align="center">
 
-### <code>Spotify</code>
+## <code>Spotify</code>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -177,14 +178,16 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <td valign="top" width="33%">
 <div align="center">
 
-### <code>Todoist Tasks</code>
+## <code>Todoist Tasks</code>
 
 <!-- TODO-IST:START -->
-🏆  8,884 Karma Points           
-💾  Completed 0 tasks today           
-🗓  Completed 68 tasks this week           
-✅  Completed 1,109 tasks so far           
-⏳  Longest streak is 22 days
+
+🏆 8,884 Karma Points  
+💾 Completed 0 tasks today  
+🗓 Completed 68 tasks this week  
+✅ Completed 1,109 tasks so far  
+⏳ Longest streak is 22 days
+
 <!-- TODO-IST:END -->
 
 </td>
@@ -193,7 +196,7 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <td valign="top" width="33%">
 <div align="center">
 
-### <code>Websites</code>
+## <code>Websites</code>
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
 
@@ -251,5 +254,9 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [sql]: https://en.wikipedia.org/wiki/SQL
 [flask]: https://flask.palletsprojects.com
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[visualstudio]: https://visualstudio.microsoft.com
+[anki]: https://apps.ankiweb.net
+[beginningc++]: https://www.udemy.com/course/beginning-c-plus-plus-programming/
+[gamedev.tv]: https://www.gamedev.tv/courses/enrolled/1638644
 
 <!-- End Links Section -->
