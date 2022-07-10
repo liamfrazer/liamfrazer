@@ -1,211 +1,72 @@
+<!-- Title SVG Start -->
 <div align="center">
 
-<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4500&color=DB5631&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=0D7EBF&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+
+</div>
+<!-- Title SVG End -->
+
+<!-- Websites & Socials Start -->
+
+<div align="center">
+
+[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)<br>
+[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+[![Website](https://img.shields.io/website?label=dinomino.com&style=for-the-badge&url=https%3A%2F%2Fdinomino.com)](https://dinomino.com)
+[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
 
 </div>
 
-<table>
-
-<tr>
-<td valign="top" width="50%">
+<!-- Websites & Socials End -->
 
 <div align="center">
-
-## <code>About Me</code>
-
-</div>
-
--   🏦 Employed by a top UK Bank for 9 years, starting as an Apprentice in 2012, now a Senior AI Conversation Analyst.
-
-<br />
-
--   🤖 Specialising in Conversation Design, IBM Watson Assistant & LivePerson Administration for just under 5 years.
-
-<br />
-
--   🛠️ Supported the implementation and testing of several automation workflows/APIs to improve customer experience and achieve KPIs.
-
-<br />
-
-</td>
-
-<td valign="top" width="50%">
-<div align="center">
-
-## <code>Goals</code>
-
-</div>
-
--   2022 - Progressing through my journey of becoming a Software Engineer.
-
-<br />
-
--   2023 - Competent in picking up new programming languages.
-
-<br />
-
--   2027 - Software Engineer specialising in Games Development, Blockchains, Smart Contracts & Full Stack Web Development.
-
-</td></tr>
-<tr>
-<tr><td valign="top" width="50%">
-<div align="center">
-
-## <code>Studying</code>
-
-[![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]
-
-[![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]
-[![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]
-
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]
-[![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&idea&logoColor=CB96F8&color=blue)][vscode]
-[![](https://img.shields.io/badge/DevOps-GIT-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]
-[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]
-
-</td>
-<td valign="top" width="50%">
-<div align="center">
-
-## <code>Experience</code>
-
-[![](https://img.shields.io/badge/Coursera-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]
-[![](https://img.shields.io/badge/Microsoft-3_MTA_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]
-
-[![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]
-[![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]
-[![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]
-[![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]
-
-[![](https://img.shields.io/badge/Chat_Solution-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]
-[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]
-[![](https://img.shields.io/badge/Tasks-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]
-[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]
-[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]
-[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]
-[![](https://img.shields.io/badge/Flashcards-Anki-informational?style=flat&logo=anki&idea&logoColor=9B9B9B&color=blue)][anki]
-
-</td>
-</tr>
-</table>
-<table>
-
-<tr><td valign="top" width="33%">
-<div align="center">
-
-## <code>Software Engineer Future Roadmap</code>
-
-[![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]
-[![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]
-[![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]
-[![](https://img.shields.io/badge/Language-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]
-[![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]
-[![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=#239120&color=blue)][c#]
-[![](https://img.shields.io/badge/Language-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]
-[![](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]
-[![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]
-[![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]
-[![](https://img.shields.io/badge/Language-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]
-[![](https://img.shields.io/badge/Game_Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]
-[![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]
-[![](https://img.shields.io/badge/Harvard-CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]
-[![](https://img.shields.io/badge/Udemy-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]
-[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]
-[![](https://img.shields.io/badge/Udemy-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]
-[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]
-[![](https://img.shields.io/badge/Harvard-CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]
-[![](https://img.shields.io/badge/Udemy-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]
-[![](https://img.shields.io/badge/Udemy-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]
-[![](https://img.shields.io/badge/Udemy-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]
-[![](https://img.shields.io/badge/Udemy-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]
-[![](https://img.shields.io/badge/Udemy-Beginning_C++_Programming-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][beginningc++]
-[![](https://img.shields.io/badge/GameDev.tv-Unreal_5.0_C++_Developer-informational?style=flat&logo=gamedev&idea&logoColor=A435F0&color=blue)][gamedev.tv]
-
-</div>
-</td>
-</tr>
-
-<tr>
-<tr>
-<td valign="top" width="50%">
-<div align="center">
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-59%20hrs%201%20min-blue)
+
+![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-53%20hrs%2013%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-Markdown                 25 hrs 28 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.95% 
-C                        17 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.09% 
-JavaScript               3 hrs 35 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.75% 
-YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.95% 
-Python                   2 hrs 13 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.18%
+💬 Programming Languages:
+Markdown                 24 hrs 39 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.22%
+C                        14 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.28%
+JavaScript               3 hrs 35 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.3%
+YAML                     2 hrs 37 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.36%
+Python                   2 hrs 13 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.53%
 
-🔥 Editors: 
-VS Code                  52 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.71% 
-Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.29%
+🔥 Editors:
+VS Code                  48 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.68%
+Visual Studio            9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.32%
 
-💻 Operating System: 
-Windows                  36 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   69.59% 
-Linux                    14 hrs              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.36% 
-Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.05%
+💻 Operating System:
+Windows                  36 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.34%
+Linux                    10 hrs 56 mins      ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.28%
+Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.38%
 
 ```
 
+Last Updated on 09/07/2022 23:07:30 UTC
 
- Last Updated on 10/07/2022 14:07:21 UTC
 <!--END_SECTION:waka-->
 </div>
-</td>
-</tr>
 
-</table>
-
-<table>
-<tr>
-<td valign="top" width="33%">
+<!-- Software Engineer Roadmap Start -->
 <div align="center">
 
-## <code>Spotify</code>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vqx5mlye3082kyufb55ttvm6u&cover_image=false&theme=default&bar_color=2b9027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-
-<td valign="top" width="33%">
-<div align="center">
-
-## <code>Todoist Tasks</code>
-
-<!-- TODO-IST:START -->
-🏆  8,884 Karma Points           
-💾  Completed 0 tasks today           
-🗓  Completed 68 tasks this week           
-✅  Completed 1,109 tasks so far           
-⏳  Longest streak is 22 days
-<!-- TODO-IST:END -->
-
-</td>
-
-</td>
-<td valign="top" width="33%">
-<div align="center">
-
-## <code>Websites</code>
-
-[![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
-
-[![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
+| <div align="center"><h1>Software Engineer Roadmap</hr1></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <div align="center"><h2>Courses</h2></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| <div align="center"><table><tr><th><div align="center">Backlog</th><th><div align="center">To-Do</th><th><div align="center">In Progress</th><th><div align="center">Completed</th></tr><tr><td valign="top" width="25%">[![](https://img.shields.io/badge/Course-The_Odin_Project-informational?style=flat&idea&logoColor=E3B465&color=blue)][top]<br>[![](https://img.shields.io/badge/Course-Full_Stack_Open_2022-informational?style=flat&idea&logoColor=F9F9F9&color=blue)][fso2022]<br>[![](https://img.shields.io/badge/Udemy-Automate_the_Boring_Stuff-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][automateboring]<br>[![](https://img.shields.io/badge/Udemy-Unreal_Engine_5_C%2B%2B_Developer-informational?style=flat&logo=Udemy&logoColor=A435F0&color=blue)][unrealcourse]<br>[![](https://img.shields.io/badge/Udemy-The_Complete_JavaScript_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][cjs]<br>[![](https://img.shields.io/badge/Udemy-The_Complete_NFT_Web_Dev_Course-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][nftweb]<br>[![](https://img.shields.io/badge/Udemy-Solidity_and_Ethereum_in_React-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][soliditycourse]<br>[![](https://img.shields.io/badge/Udemy-The_Self_Taught_Programmer-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][selftaught]<br>[![](https://img.shields.io/badge/Udemy-Beginning_C++_Programming-informational?style=flat&logo=Udemy&idea&logoColor=A435F0&color=blue)][beginningc++]<br>[![](https://img.shields.io/badge/GameDev.tv-Unreal_5.0_C++_Developer-informational?style=flat&logo=gamedev&idea&logoColor=A435F0&color=blue)][gamedev.tv]<br></td><td valign="top" width="25%">[![](https://img.shields.io/badge/Harvard-CS50G-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50g]<br>[![](https://img.shields.io/badge/Harvard-CS50W-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50w]<br></td><td valign="top" width="25%">[![](https://img.shields.io/badge/Harvard-CS50X-informational?style=flat&logo=edx&idea&logoColor=02262B&color=blue)][cs50x]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Coursera-Learning_How_to_Learn-informational?style=flat&logo=Coursera&idea&logoColor=0056D2&color=blue)][lhtl]<br>[![](https://img.shields.io/badge/MTA-Security_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]<br>[![](https://img.shields.io/badge/MTA-Networking_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]<br>[![](https://img.shields.io/badge/MTA-Server_Fundamentals-informational?style=flat&logo=microsoft&idea&logoColor=258FFA&color=blue)][mta]</td></tr></table></div> |
+| <div align="center"><h2>Languages & Frameworks</h2></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| <div align="center"><table><tr><th><div align="center">Backlog</th><th><div align="center">To-Do</th><th><div align="center">In Progress</th><th><div align="center">Proficient</th></tr><tr><td valign="top" width="25%">[![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=#FFFFFF&color=blue)][lua]<br>[![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=#239120&color=blue)][c#]<br>[![](https://img.shields.io/badge/Language-C%2B%2B-informational?style=flat&logo=c%2B%2B&idea&logoColor=F7DF1E&color=blue)][c++]<br>[![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&idea&logoColor=6DA55F&color=blue)][node.js]<br>[![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&idea&logoColor=61DAFB&color=blue)][react]<br>[![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&idea&logoColor=363636&color=blue)][solidity]<br>[![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&idea&logoColor=20232A&color=blue)][next.js]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&idea&logoColor=1572B6&color=blue)][css3]<br>[![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&idea&logoColor=F7DF1E&color=blue)][javascript]<br>[![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=sqlite&idea&logoColor=#003B57&color=blue)][sql]<br>[![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&idea&logoColor=#000000&color=blue)][flask]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&idea&logoColor=00599C&color=blue)][c]<br>[![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&idea&logoColor=ffdd54&color=blue)][python]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&idea&logoColor=E34F26&color=blue)][html5]<br>[![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&idea&logoColor=#4D97FF&color=blue)][scratch]<br>[![](https://img.shields.io/badge/Language-SpEL-informational?style=flat&logo=spring&idea&logoColor=#6DB33F&color=blue)][spel]<br>[![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&idea&logoColor=000000&color=blue)][markdown]</td></tr></table></div>                                                                                                                                                                                                                                         |
+| <div align="center"><h2>Tools</h3></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <div align="center"><table><tr><th><div align="center">Backlog</th><th><div align="center">To-Do</th><th><div align="center">In Progress</th><th><div align="center">Proficient</th></tr><tr><td valign="top" width="25%">[![](https://img.shields.io/badge/Game_Engine-Unreal_Engine_5-informational?style=flat&logo=unrealengine&logoColor=#0E1128&color=blue)][unrealengine]<br>[![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=unity&logoColor=#FFFFFF&color=blue)][unity]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&idea&logoColor=CB96F8&color=blue)][visualstudio]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&idea&logoColor=0078D7&color=blue)][vscode]<br>[![](https://img.shields.io/badge/DevOps-GIT-informational?style=flat&logo=git&idea&logoColor=F05033&color=blue)][git]<br>[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&idea&logoColor=20232A&color=blue)][github]</td><td valign="top" width="25%">[![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=jira&idea&logoColor=0A0FFF&color=blue)][jira]<br>[![](https://img.shields.io/badge/Task_Manager-Todoist-informational?style=flat&logo=todoist&idea&logoColor=E44332&color=blue)][todoist]<br>[![](https://img.shields.io/badge/Flashcards-Anki-informational?style=flat&logo=anki&idea&logoColor=9B9B9B&color=blue)][anki]<br>[![](https://img.shields.io/badge/Workflows-ServiceNow-informational?style=flat&logo=&idea&logoColor=58C047&color=blue)][servicenow]<br>[![](https://img.shields.io/badge/Notes-Obsidian-informational?style=flat&logo=obsidian&idea&logoColor=8B77DE&color=blue)][obsidian]<br>[![](https://img.shields.io/badge/AI-IBM_Watson_Assistant-informational?style=flat&logo=IBM&idea&logoColor=44A2D2&color=blue)][ibmwatson]<br>[![](https://img.shields.io/badge/Chat_Management-LivePerson-informational?style=flat&logo=&idea&logoColor=FA722D&color=blue)][liveperson]</td></tr></table></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 </div>
 
-</td>
-</tr>
-</table>
+<!-- Software Engineer Roadmap End -->
 
-<!-- Start Links Section -->
+<!-- Links List Start -->
 
 [vscode]: https://code.visualstudio.com/
 [top]: https://theodinproject.com/
@@ -256,4 +117,4 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [beginningc++]: https://www.udemy.com/course/beginning-c-plus-plus-programming/
 [gamedev.tv]: https://www.gamedev.tv/courses/enrolled/1638644
 
-<!-- End Links Section -->
+<!-- Links List End -->
