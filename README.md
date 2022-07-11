@@ -21,7 +21,7 @@
 
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-60%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-61%20hrs%2015%20mins-blue)
 
 ```text
 ⌚︎ Time Zone: Europe/London
@@ -45,7 +45,7 @@ Mac                      2 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 11/07/2022 15:08:22 UTC
+ Last Updated on 11/07/2022 16:11:53 UTC
 <!--END_SECTION:waka-->
 </div>
 
