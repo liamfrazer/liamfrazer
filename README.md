@@ -50,6 +50,16 @@ Mac                      2 hrs 20 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 </div>
 
+<div align="center">
+<h2>Tools, Languages, Runtimes & Frameworks</h2>
+
+|<div align="center">To-Do</div>|<div align="center">In Progress</div>|<div align="center">Proficient</div>|
+|----|----|----|
+|<div align="center">![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,graphql,redux,jenkins&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,git,github,docker&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=spring,markdown&theme=dark&perline=4)</div>|
+
+
+<!-- OLd Code Start -->
+
 <!-- Software Engineer Roadmap Start -->
 <!-- <div align="center">
 
@@ -75,6 +85,8 @@ Mac                      2 hrs 20 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div> -->
 
 <!-- Software Engineer Future Roadmap End
+
+<!-- OLd Code End -->
 
 <!-- Links List Start -->
 
