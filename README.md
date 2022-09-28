@@ -11,10 +11,9 @@
 <div align="center">
 
 [![Website](https://img.shields.io/website?label=frz.dev&style=for-the-badge&url=https%3A%2F%2Ffrz.dev)](https://frz.dev)
-[![Website](https://img.shields.io/website?label=docs.frz.dev&style=for-the-badge&url=https%3A%2F%2Fdocs.frz.dev)](https://docs.frz.dev)<br>
+[![Website](https://img.shields.io/website?label=docs.frz.dev&style=for-the-badge&url=https%3A%2F%2Fdocs.frz.dev)](https://docs.frz.dev)
 [![Website](https://img.shields.io/website?label=liamfrazer.com&style=for-the-badge&url=https%3A%2F%2Fliamfrazer.com)](https://liamfrazer.com)
-[![Website](https://img.shields.io/website?label=dinomino.com&style=for-the-badge&url=https%3A%2F%2Fdinomino.com)](https://dinomino.com)
-[![Website](https://img.shields.io/website?label=adaptoken.com&style=for-the-badge&url=https%3A%2F%2Fadaptoken.com)](https://adaptoken.com)
+
 
 </div>
 
