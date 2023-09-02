@@ -19,6 +19,19 @@
 
 <!--START_SECTION:waka-->
 
+```python
+From: 20 March 2022 - To: 01 September 2023
+
+Total Time: 201 hrs 59 mins
+
+JavaScript         63 hrs 54 mins  ███████▓░░░░░░░░░░░░░░░░░   30.75 %
+Markdown           44 hrs 3 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+Lua                38 hrs 45 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+C                  17 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+YAML               11 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Other              5 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
