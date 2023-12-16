@@ -1,7 +1,7 @@
 <!-- Title SVG Start -->
 <div align="center">
 
-<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=0D7EBF&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=435&height=80&lines=Liam+Frazer;Junior+Software+Engineer" alt="Typing SVG" /></a>
 
 </div>
 <!-- Title SVG End -->
