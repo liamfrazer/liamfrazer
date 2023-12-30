@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 March 2022 - To: 28 December 2023
+From: 20 March 2022 - To: 29 December 2023
 
-Total Time: 240 hrs 23 mins
+Total Time: 243 hrs 22 mins
 
-JavaScript         96 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.96 %
-Markdown           44 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-Lua                38 hrs 55 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-C                  17 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-YAML               12 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Other              7 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JavaScript         99 hrs 22 mins  ██████████░░░░░░░░░░░░░░░   39.69 %
+Markdown           44 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Lua                38 hrs 55 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+C                  17 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+YAML               12 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Other              7 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
