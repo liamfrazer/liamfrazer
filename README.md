@@ -41,7 +41,7 @@ Other              7 hrs           ▓░░░░░░░░░░░░░░
 
 |<div align="center">To-Do</div>|<div align="center">In Progress</div>|<div align="center">Proficient</div>|
 |----|----|----|
-|<div align="center">![My Skills](https://skillicons.dev/icons?i=jenkins&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=javascript,react,typescript,nodejs,express,mongodb&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,vscode,markdown,git,github&theme=dark&perline=4)</div>|
+|<div align="center">![My Skills](https://skillicons.dev/icons?i=jenkins,blender,docker,kubernetes,unity&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=javascript,react,typescript,nodejs,express,mongodb,cs,bootstrap,postman&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,vscode,markdown,git,github,gitlab&theme=dark&perline=4)</div>|
 
 
 <!-- OLd Code Start -->
