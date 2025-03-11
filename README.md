@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 March 2022 - To: 08 March 2025
+From: 20 March 2022 - To: 09 March 2025
 
-Total Time: 331 hrs 8 mins
+Total Time: 333 hrs 46 mins
 
-JavaScript         104 hrs 57 mins ███████▓░░░░░░░░░░░░░░░░░   30.90 %
-TypeScript         61 hrs 19 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Markdown           44 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Lua                39 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-C                  17 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-C#                 15 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-YAML               12 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Other              8 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JavaScript         104 hrs 57 mins ███████▓░░░░░░░░░░░░░░░░░   30.66 %
+TypeScript         63 hrs 56 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Markdown           44 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Lua                39 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+C                  17 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+C#                 15 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+YAML               12 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other              8 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
