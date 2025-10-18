@@ -23,5 +23,5 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          BLOCKS: ░▒▓█
-          CODE_LANG: python
+          BLOCKS: ->
+          CODE_LANG: json
