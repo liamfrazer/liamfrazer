@@ -24,4 +24,4 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           BLOCKS: ->
-          CODE_LANG: json
+          CODE_LANG: rust
