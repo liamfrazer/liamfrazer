@@ -19,19 +19,19 @@
 
 <!--START_SECTION:waka-->
 
-```python
-From: 20 March 2022 - To: 16 October 2025
+```json
+From: 20 March 2022 - To: 17 October 2025
 
 Total Time: 371 hrs 30 mins
 
-JavaScript         105 hrs 34 mins ███████░░░░░░░░░░░░░░░░░░   27.73 %
-TypeScript         98 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Markdown           44 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Lua                39 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-C                  17 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-C#                 15 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-YAML               13 hrs 17 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Other              9 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JavaScript         105 hrs 34 mins >>>>>>>------------------   27.73 %
+TypeScript         98 hrs 42 mins  >>>>>>-------------------   25.92 %
+Markdown           44 hrs 19 mins  >>>----------------------   11.64 %
+Lua                39 hrs 14 mins  >>>----------------------   10.31 %
+C                  17 hrs 42 mins  >------------------------   04.65 %
+C#                 15 hrs 19 mins  >------------------------   04.02 %
+YAML               13 hrs 17 mins  >------------------------   03.49 %
+Other              9 hrs 15 mins   >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
