@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 March 2022 - To: 17 December 2025
+From: 20 March 2022 - To: 18 December 2025
 
-Total Time: 385 hrs 52 mins
+Total Time: 387 hrs 13 mins
 
-TypeScript         110 hrs 59 mins >>>>>>>------------------   28.09 %
-JavaScript         105 hrs 35 mins >>>>>>>------------------   26.72 %
-Markdown           44 hrs 27 mins  >>>----------------------   11.25 %
-Lua                39 hrs 14 mins  >>-----------------------   09.93 %
-C                  17 hrs 42 mins  >------------------------   04.48 %
-C#                 15 hrs 19 mins  >------------------------   03.88 %
-YAML               13 hrs 24 mins  >------------------------   03.39 %
-Other              9 hrs 15 mins   >------------------------   02.34 %
+TypeScript         112 hrs 4 mins  >>>>>>>------------------   28.26 %
+JavaScript         105 hrs 35 mins >>>>>>>------------------   26.62 %
+Markdown           44 hrs 38 mins  >>>----------------------   11.26 %
+Lua                39 hrs 14 mins  >>-----------------------   09.89 %
+C                  17 hrs 42 mins  >------------------------   04.47 %
+C#                 15 hrs 19 mins  >------------------------   03.86 %
+YAML               13 hrs 24 mins  >------------------------   03.38 %
+Other              9 hrs 22 mins   >------------------------   02.36 %
 ```
 
 <!--END_SECTION:waka-->
